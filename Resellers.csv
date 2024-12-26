@@ -1,0 +1,702 @@
+ResellerKey,ResellerAlternateKey,BusinessType,ResellerName,NumberEmployees,AnnualRevenue,YearOpened,AddressLine1,AddressLine2,City,StateProvinceName,StateProvinceCode,PostalCode,CountryRegionName
+105,AW00000105,Warehouse,Volume Bike Sellers,100,300000,2003,2565-175 Mitchell Road,,Alexandria,New South Wales,NSW,2015,Australia
+658,AW00000658,Value Added Reseller,Mass Market Bikes,5,30000,1980,Level 59,,Alexandria,New South Wales,NSW,2015,Australia
+555,AW00000555,Value Added Reseller,Twin Cycles,11,80000,1992,2253-217 Palmer Street,,Darlinghurst,New South Wales,NSW,2010,Australia
+87,AW00000087,Warehouse,Rich Department Store,94,300000,1978,99 - 6 Orion Road,,Lane Cove,New South Wales,NSW,1597,Australia
+141,AW00000141,Specialty Bike Shop,Rental Gallery,40,150000,1999,2520b Underwood Street,,Lavender Bay,New South Wales,NSW,2060,Australia
+15,AW00000015,Warehouse,Budget Toy Store,52,300000,2002,25 Epping Road,,Lavender Bay,New South Wales,NSW,2060,Australia
+33,AW00000033,Warehouse,Global Sports Outlet,70,300000,1997,Ctrcrt Bus Pk/995-27 Paul St N,,Lavender Bay,New South Wales,NSW,2060,Australia
+69,AW00000069,Warehouse,Online Bike Catalog,88,300000,1979,65 Epping Rd,,Lavender Bay,New South Wales,NSW,2060,Australia
+231,AW00000231,Value Added Reseller,Helmets and Cycles,14,80000,1998,Rosebery,,Lavender Bay,New South Wales,NSW,2060,Australia
+501,AW00000501,Specialty Bike Shop,Jumbo Bikes,41,150000,1981,254a James Street Botany,,Malabar,New South Wales,NSW,2036,Australia
+321,AW00000321,Value Added Reseller,Second Bike Shop,19,80000,2004,6 Lord Street,,Matraville,New South Wales,NSW,2036,Australia
+339,AW00000339,Warehouse,Major Bicycle Store,49,150000,1996,Level 6,538 Climbing Street,Matraville,New South Wales,NSW,2036,Australia
+616,AW00000616,Specialty Bike Shop,Eastward Bike Accessories,39,150000,1978,Level 7,201 Sussex Street,Matraville,New South Wales,NSW,2036,Australia
+393,AW00000393,Warehouse,Gears and Parts Company,87,300000,1987,2nd Floor,55 Lavender Street,Milsons Point,New South Wales,NSW,2061,Australia
+682,AW00000682,Value Added Reseller,Popular Bike Lines,17,80000,1991,Level 7,80 Arthur Street,Newcastle,New South Wales,NSW,2300,Australia
+285,AW00000285,Value Added Reseller,Nearest Bike Store,4,30000,1980,Ctrcrt Bus Pk/995-27 Paul St N,,North Ryde,New South Wales,NSW,2113,Australia
+159,AW00000159,Specialty Bike Shop,Uncompromising Quality Co,46,150000,1995,65 Epping Road,,North Ryde,New South Wales,NSW,2113,Australia
+123,AW00000123,Specialty Bike Shop,First Supplies,22,100000,2000,Chabbell Park,,North Ryde,New South Wales,NSW,2113,Australia
+195,AW00000195,Specialty Bike Shop,Inexpensive Parts Shop,34,150000,1976,2253 Miller Street,,North Sydney,New South Wales,NSW,2055,Australia
+411,AW00000411,Warehouse,Kids and Adults Cycle Shop,93,300000,1978,258 Berry Street,,North Sydney,New South Wales,NSW,2055,Australia
+303,AW00000303,Value Added Reseller,Seaside Bike Works,10,80000,1974,2501 Miller Street,,North Sydney,New South Wales,NSW,2055,Australia
+483,AW00000483,Specialty Bike Shop,Fitness Bike Accessories,47,150000,1990,Level 7,114 Albert Road,Rhodes,New South Wales,NSW,2138,Australia
+573,AW00000573,Value Added Reseller,Nationwide Supply,17,80000,1991,4250 Concord Road,,Rhodes,New South Wales,NSW,2138,Australia
+537,AW00000537,Specialty Bike Shop,Preferable Bikes,29,100000,2005,Level 25,538 Climbing Street,Rhodes,New South Wales,NSW,2138,Australia
+634,AW00000634,Specialty Bike Shop,Sensible Sports,33,150000,1982,Level 5,157 Liverpool Street,Rhodes,New South Wales,NSW,2138,Australia
+429,AW00000429,Warehouse,Unusual Bicycle Company,99,300000,2003,85 Egerton Street,,Silverwater,New South Wales,NSW,2264,Australia
+447,AW00000447,Specialty Bike Shop,Cross-town Parts Shop,19,80000,1994,Po Box 25484,,Springwood,New South Wales,NSW,2777,Australia
+465,AW00000465,Specialty Bike Shop,Expert Cycle Store,37,150000,1999,Orwith Center,39 Herbert Street,St. Leonards,New South Wales,NSW,2065,Australia
+688,AW00000688,Value Added Reseller,Bike Part Wholesalers,15,80000,2003,254a Baker Street,Botany,Sydney,New South Wales,NSW,1002,Australia
+375,AW00000375,Warehouse,Region Bike Company,81,300000,1996,P O Box 72569,,East Brisbane,Queensland,QLD,4169,Australia
+177,AW00000177,Specialty Bike Shop,Plastic Products Manufacturers,40,150000,1986,5525 Glenferrie Road,,Hawthorne,Queensland,QLD,4171,Australia
+51,AW00000051,Warehouse,Ideal Components,82,300000,1988,2-252 Beauchamp Road,Botany Bay Industrial Estate,Cloverdale,South Australia,SA,6105,Australia
+357,AW00000357,Warehouse,Quality Bike Sales,67,300000,1995,P.O. Box 990032,,Findon,South Australia,SA,5023,Australia
+640,AW00000640,Specialty Bike Shop,Liquidation Sales,31,150000,1994,No. 6,Millenium Court,Perth,South Australia,SA,6006,Australia
+591,AW00000591,Value Added Reseller,Fitness Discount Store,11,80000,1997,Level 992,56 Pitt Street,Melbourne,Victoria,VIC,3000,Australia
+664,AW00000664,Value Added Reseller,Eastside Cycle Shop,11,80000,1992,45671 Queens Road Ct.,,Melbourne,Victoria,VIC,3000,Australia
+519,AW00000519,Specialty Bike Shop,List Price Catalog Company,35,150000,1992,Level 25,96 Lytton Rd.,Melbourne,Victoria,VIC,3000,Australia
+267,AW00000267,Value Added Reseller,Cycle Parts and Accessories,10,80000,1989,Level 99,12 South 10th Avenue,Melbourne,Victoria,VIC,3000,Australia
+249,AW00000249,Value Added Reseller,Helpful Sales and Repair Service,16,80000,1998,Licensing Account,,Seaford,Victoria,VIC,3198,Australia
+213,AW00000213,Specialty Bike Shop,Fast Bike Works,28,100000,1975,Level 100,77 Southbank Boulevard,South Melbourne,Victoria,VIC,3205,Australia
+190,AW00000190,Warehouse,Racing Partners,92,300000,1991,2512-410th Avenue S.W.,,Calgary,Alberta,AB,T2P 2G8,Canada
+262,AW00000262,Specialty Bike Shop,General Industries,48,150000,1998,9259 - 1110th Avenue Sw,,Calgary,Alberta,AB,T2P 2G8,Canada
+46,AW00000046,Value Added Reseller,Gear-Shift Bikes Limited,11,80000,1997,2512-4th Ave Sw,,Calgary,Alberta,AB,T2P 2G8,Canada
+136,AW00000136,Warehouse,Wholesale Parts,64,300000,2000,655-4th Ave S.W.,,Calgary,Alberta,AB,T2P 2G8,Canada
+137,AW00000137,Value Added Reseller,Transportation Options,17,80000,1991,25900-700-9th Ave S.W.,,Calgary,Alberta,AB,T2P 2G8,Canada
+444,AW00000444,Specialty Bike Shop,Finer Cycle Shop,16,80000,1988,2500-622 5th Ave Sw,,Calgary,Alberta,AB,T2P 2G8,Canada
+354,AW00000354,Warehouse,Serious Cycles,64,300000,2000,Suite 99320 255 - 510th Avenue S.W.,,Calgary,Alberta,AB,T2P 2G8,Canada
+370,AW00000370,Value Added Reseller,Acceptable Sales & Service,12,80000,1992,"6400, 888 - 3rd Avenue",,Calgary,Alberta,AB,T2P 2G8,Canada
+661,AW00000661,Value Added Reseller,General Department Stores,8,30000,1986,"253131 Lake Frasier Drive, Office No. 2",,Calgary,Alberta,AB,T2P 2G8,Canada
+701,AW00000701,Warehouse,Future Bikes,81,300000,1996,"67255 - 8th Street N.E., Suite 350",,Calgary,Alberta,AB,T2P 2G8,Canada
+629,AW00000629,Warehouse,Efficient Cycling,93,300000,1978,"250333 Southport Road, S.W.",,Calgary,Alberta,AB,T2P 2G8,Canada
+352,AW00000352,Value Added Reseller,Twelfth Bike Store,18,80000,2001,No. 25400 10665 Jasper Avenue,,Edmonton,Alberta,AB,T5,Canada
+496,AW00000496,Warehouse,Top Sports Supply,85,300000,1990,251420a 170th Street,,Edmonton,Alberta,AB,T5,Canada
+10,AW00000010,Value Added Reseller,Rural Cycle Emporium,11,80000,1992,6388 Lake City Way,,Burnaby,British Columbia,BC,V5A 3A6,Canada
+317,AW00000317,Warehouse,Finer Riding Supplies,98,300000,2002,#9900 2700 Production Way,,Burnaby,British Columbia,BC,V5A 4X1,Canada
+263,AW00000263,Warehouse,Farthest Bike Store,80,300000,1991,45259 Canada Way,,Burnaby,British Columbia,BC,V5G 4S4,Canada
+588,AW00000588,Value Added Reseller,General Cycle Storehouse,12,80000,1992,"30025 Wayburne Drive, Suite 275",,Burnaby,British Columbia,BC,V5G 4W1,Canada
+66,AW00000066,Warehouse,Neighborhood Store,87,300000,1987,6777 Kingsway,,Burnaby,British Columbia,BC,V5H 3Z7,Canada
+172,AW00000172,Warehouse,Certified Sports Supply,86,300000,1982,250551 Shellbridge Way,,Richmond,British Columbia,BC,V6B 3P7,Canada
+408,AW00000408,Warehouse,Odometers and Accessories Company,92,300000,1991,"253711 Mayfield Place, Unit 150",,Richmond,British Columbia,BC,V6B 3P7,Canada
+497,AW00000497,Value Added Reseller,Valley Toy Store,6,30000,1983,252851 Rowan Place,,Richmond,British Columbia,BC,V6B 3P7,Canada
+478,AW00000478,Warehouse,Major Cycling,79,300000,1999,46990 Viking Way,,Richmond,British Columbia,BC,V6B 3P7,Canada
+462,AW00000462,Specialty Bike Shop,General Riding Supplies,34,150000,1987,"43251 Viking Way, Unit 130",,Richmond,British Columbia,BC,V6B 3P7,Canada
+514,AW00000514,Warehouse,Retail Mall,91,300000,1981,254480 River Rd,,Richmond,British Columbia,BC,V6B 3P7,Canada
+371,AW00000371,Specialty Bike Shop,Custom Sales and Service,48,150000,1998,255117 - 101 Avenue,,Surrey,British Columbia,BC,V3T 4W3,Canada
+389,AW00000389,Specialty Bike Shop,Sixth Bike Store,42,150000,1989,Suite 25800 3401 - 10810th Avenue,,Surrey,British Columbia,BC,V3T 4W3,Canada
+174,AW00000174,Specialty Bike Shop,Toy Manufacturing Inc,41,150000,1981,252345 8810th Avenue,,Surrey,British Columbia,BC,V3T 4W3,Canada
+173,AW00000173,Value Added Reseller,Sundry Sporting Goods,5,30000,1988,595 Burning Street,,Vancouver,British Columbia,BC,V7L 4J4,Canada
+154,AW00000154,Warehouse,Camping and Sports Store,80,300000,1991,400-25155 West Pender St,,Vancouver,British Columbia,BC,V7L 4J4,Canada
+138,AW00000138,Specialty Bike Shop,South Bike Company,37,150000,1999,Po Box 83270,,Vancouver,British Columbia,BC,V7L 4J4,Canada
+82,AW00000082,Value Added Reseller,Refined Department Stores,8,30000,1979,5250-505 Burning St,,Vancouver,British Columbia,BC,V7L 4J4,Canada
+388,AW00000388,Value Added Reseller,Road Way Sales and Rental,6,30000,1983,2900 - 25055 Dunning Street,,Vancouver,British Columbia,BC,V7L 4J4,Canada
+318,AW00000318,Value Added Reseller,First-Rate Outlet,20,100000,2004,25537 Hillside Avenue,,Victoria,British Columbia,BC,V8V,Canada
+298,AW00000298,Specialty Bike Shop,City Cycling,36,150000,1980,6th Floor 5250 Main Street,,Winnipeg,Manitoba,MB,R3,Canada
+353,AW00000353,Specialty Bike Shop,Two-Wheeled Transit Company,34,150000,1987,P.O. Box 44000,,Winnipeg,Manitoba,MB,R3,Canada
+299,AW00000299,Warehouse,Citywide Service and Repair,92,300000,1991,Box 99354 300 Union Street,,Saint John,Brunswick,NB,E2P 1E3,Canada
+654,AW00000654,Value Added Reseller,Online Bike Warehouse,17,80000,2001,"32605 West 252 Mile Road, Suite 250",,Aurora,Ontario,ON,L4G 7N6,Canada
+280,AW00000280,Specialty Bike Shop,Standard Bikes,42,150000,1989,9979 Bayview Drive,,Barrie,Ontario,ON,L4N,Canada
+426,AW00000426,Warehouse,Custom Accessories Company,98,300000,2002,251 Indell Lane,,Brampton,Ontario,ON,L6W 2T7,Canada
+29,AW00000029,Specialty Bike Shop,Cross-Country Riding Supplies,37,150000,1999,Station E,,Chalk Riber,Ontario,ON,K0J 1J0,Canada
+84,AW00000084,Warehouse,Rewarding Activities Company,93,300000,1978,25575 The Queensway,,Etobicoke,Ontario,ON,M9W 3P3,Canada
+425,AW00000425,Specialty Bike Shop,Bikes for Kids and Adults,30,150000,2000,9900 Ronson Drive,,Etobicoke,Ontario,ON,M9W 3P3,Canada
+532,AW00000532,Warehouse,The Showroom,97,300000,1996,4400 March Road,,Kanata,Ontario,ON,K2L 1H5,Canada
+516,AW00000516,Specialty Bike Shop,Seats and Saddles Company,36,150000,1980,"5th Floor, 79 Place D'armes",,Kingston,Ontario,ON,7L,Canada
+372,AW00000372,Warehouse,Top Bike Market,80,300000,1991,975 Princess Street,,Kingston,Ontario,ON,7L,Canada
+100,AW00000100,Value Added Reseller,Up-To-Date Sports,20,100000,2004,2521 McPherson Street,,Markham,Ontario,ON,L3S 3K2,Canada
+335,AW00000335,Specialty Bike Shop,Scratch-Resistant Finishes Company,16,80000,1988,5700 Explorer Drive,,Mississauga,Ontario,ON,L4W 5J3,Canada
+316,AW00000316,Specialty Bike Shop,Low Price Cycles,30,150000,2000,Suite 500 995 W. 11th Avenue,,Mississauga,Ontario,ON,L5A 1H6,Canada
+534,AW00000534,Specialty Bike Shop,Recommended Bicycles,30,150000,2000,250 Kingsbridge Garden Circle,,Mississauga,Ontario,ON,L5B 3V4,Canada
+461,AW00000461,Value Added Reseller,Active Life Toys,18,80000,2001,55 Standish Court,,Mississauga,Ontario,ON,L5B 3V4,Canada
+480,AW00000480,Specialty Bike Shop,General Bike Corporation,48,150000,1998,69251 Creditview Road,,Mississauga,Ontario,ON,L5B 3V4,Canada
+498,AW00000498,Specialty Bike Shop,Quick Delivery Service,42,150000,1989,5990 Avebury Road,,Mississauga,Ontario,ON,L5B 3V4,Canada
+569,AW00000569,Warehouse,Designated Distributors,61,300000,1983,254 Colonnade Road,,Nepean,Ontario,ON,K2J 2W5,Canada
+515,AW00000515,Value Added Reseller,Rural Bicycle Supply,6,30000,1974,Suite #9902,,North York,Ontario,ON,M4C 4K6,Canada
+228,AW00000228,Value Added Reseller,Home Town Bike Store,11,80000,1992,955 Green Valley Crescent,,Ottawa,Ontario,ON,K4B 1S1,Canada
+83,AW00000083,Specialty Bike Shop,Requisite Part Supply,35,150000,1992,600 Slater Street,,Ottawa,Ontario,ON,K4B 1S2,Canada
+526,AW00000526,Warehouse,Finer Sales and Service,95,300000,1984,#500-75 O'Connor Street,,Ottawa,Ontario,ON,K4B 1S2,Canada
+677,AW00000677,Specialty Bike Shop,Tire Exchange,31,150000,2002,9984 Wellington Street,,Ottawa,Ontario,ON,K4B 1S2,Canada
+587,AW00000587,Warehouse,Our Sporting Goods Store,79,300000,1999,6030 Conroy Road,,Ottawa,Ontario,ON,K4B 1S3,Canada
+300,AW00000300,Value Added Reseller,Nice Bikes,8,30000,1979,Suite 800 2530 Slater Street,,Ottawa,Ontario,ON,K4B 1T7,Canada
+424,AW00000424,Value Added Reseller,Bikes for Two,18,80000,1998,63 West Beaver Creek,,Richmond Hill,Ontario,ON,L4E 3M5,Canada
+443,AW00000443,Value Added Reseller,Courteous Bicycle Specialists,8,30000,1986,995 Crescent,,Richmond Hill,Ontario,ON,L4E 3M5,Canada
+209,AW00000209,Value Added Reseller,Purple Bicycle Company,20,100000,2004,2550 Middlefield Road,,Scarborough,Ontario,ON,M1V 4M2,Canada
+653,AW00000653,Warehouse,Mercantile Outlet,66,300000,1983,2520 Flanders Road,,Toronto,Ontario,ON,M4B 1V4,Canada
+630,AW00000630,Value Added Reseller,Eastside Parts Shop,10,80000,1974,7000 Victoria Park Avenue,,Toronto,Ontario,ON,M4B 1V4,Canada
+631,AW00000631,Specialty Bike Shop,Tandem Sales and Service,34,150000,1976,63 Free St.,,Toronto,Ontario,ON,M4B 1V4,Canada
+637,AW00000637,Specialty Bike Shop,Reliable Retail Center,32,150000,1988,609 Evans Avenue,,Toronto,Ontario,ON,M4B 1V4,Canada
+678,AW00000678,Warehouse,Vigorous Exercise Company,61,300000,1983,"9950 Ferrand Drive, 9th Floor",,Toronto,Ontario,ON,M4B 1V4,Canada
+210,AW00000210,Specialty Bike Shop,Gasless Cycle Shop,29,100000,2005,25 First Canadian Place,,Toronto,Ontario,ON,M4B 1V5,Canada
+227,AW00000227,Warehouse,"Health Spa, Limited",46,150000,1990,2500 University Avenue,,Toronto,Ontario,ON,M4B 1V5,Canada
+264,AW00000264,Value Added Reseller,Fasteners & Bolts Outlet,11,80000,1997,9960 King Street E.,,Toronto,Ontario,ON,M4B 1V5,Canada
+442,AW00000442,Warehouse,Original Bicycle Supply Company,43,150000,1984,2573 Dufferin Street,,Toronto,Ontario,ON,M4B 1V5,Canada
+568,AW00000568,Specialty Bike Shop,Economy Center,31,150000,2002,"6th Floor, 25st Canadian Place",,Toronto,Ontario,ON,M4B 1V5,Canada
+551,AW00000551,Warehouse,Vinyl and Plastic Goods Corporation,43,150000,1984,No. 25800-130 King Street West,,Toronto,Ontario,ON,M4B 1V5,Canada
+552,AW00000552,Value Added Reseller,Consolidated Messenger,8,30000,1986,25 Danger Street West,Floor 7,Toronto,Ontario,ON,M4B 1V5,Canada
+28,AW00000028,Value Added Reseller,Commuter Bicycle Store,17,80000,1991,2575 Bloor Street East,,Toronto,Ontario,ON,M4B 1V6,Canada
+64,AW00000064,Value Added Reseller,Metal Clearing House,5,30000,1988,3255 Front Street West,,Toronto,Ontario,ON,M4B 1V6,Canada
+47,AW00000047,Specialty Bike Shop,Greater Bike Store,47,150000,1990,55 Lakeshore Blvd East,,Toronto,Ontario,ON,M4B 1V6,Canada
+11,AW00000011,Specialty Bike Shop,Sharp Bikes,19,80000,1994,52560 Free Street,,Toronto,Ontario,ON,M4B 1V7,Canada
+12,AW00000012,Warehouse,Bikes and Motorbikes,49,150000,1996,22580 Free Street,,Toronto,Ontario,ON,M4B 1V7,Canada
+101,AW00000101,Specialty Bike Shop,Urban Sports Emporium,29,100000,2005,2560 Bay Street,,Toronto,Ontario,ON,M4B 1V7,Canada
+102,AW00000102,Warehouse,National Manufacturing,99,300000,2003,630 University Avenue,,Toronto,Ontario,ON,M4B 1V7,Canada
+118,AW00000118,Warehouse,Rapid Bikes,46,150000,1990,992 St Clair Ave East,,Toronto,Ontario,ON,M4B 1V7,Canada
+208,AW00000208,Warehouse,Professional Cyclists,98,300000,2002,2545 King Street West,,Toronto,Ontario,ON,M4B 1V7,Canada
+191,AW00000191,Value Added Reseller,Non-Slip Pedal Company,8,30000,1979,258 King Street East,,Toronto,Ontario,ON,M4B 1V7,Canada
+192,AW00000192,Specialty Bike Shop,Nuts and Bolts Mfg.,35,150000,1992,6th Floor Ferguson Block,,Toronto,Ontario,ON,M4B 1V7,Canada
+155,AW00000155,Value Added Reseller,Corner Bicycle Supply,11,80000,1997,2511 Baker Road,,Toronto,Ontario,ON,M4B 1V7,Canada
+613,AW00000613,Specialty Bike Shop,Famous Bike Shop,40,150000,1986,999 West Georgia St.,,Vancouver,Ontario,ON,V5T 1Y9,Canada
+390,AW00000390,Warehouse,Plastic Parts Company,86,300000,1982,750 Philip Street,,Waterloo,Ontario,ON,N2V,Canada
+334,AW00000334,Value Added Reseller,Retreat Inn,8,30000,1986,Suite 2502 410 Albert Street,,Waterloo,Ontario,ON,N2V,Canada
+65,AW00000065,Specialty Bike Shop,Metro Manufacturing,41,150000,1981,2550 Signet Drive,,Weston,Ontario,ON,M9V 4W3,Canada
+460,AW00000460,Warehouse,Price-Cutter Discount Bikes,61,300000,1983,6700 Boul Taschereau,,Brossard,Quebec,QC,J4Z 1C5,Canada
+245,AW00000245,Warehouse,Leather Seat Factory,64,300000,2000,"9900-6400 Boul, Taschereau",,Brossard,Quebec,QC,J4Z 1R4,Canada
+655,AW00000655,Value Added Reseller,Operational Manufacturing,2,30000,1974,"25730, boul. St-R?gis",,Dorval,Quebec,QC,H9P 1H1,Canada
+226,AW00000226,Specialty Bike Shop,Leisure Activities,16,80000,1988,65 Gamelin Street,,Hull,Quebec,QC,8Y,Canada
+679,AW00000679,Value Added Reseller,Superb Sales and Repair,18,80000,2001,990th Floor 700 De La GauchetiSre Ou,,Montreal,Quebec,QC,H1Y 2H3,Canada
+120,AW00000120,Specialty Bike Shop,Machines & Cycles Store,19,80000,1994,25245 Rue Sherbrooke Ouest,,Montreal,Quebec,QC,H1Y 2H5,Canada
+570,AW00000570,Value Added Reseller,Family's Favorite Bike Shop,18,80000,2001,25981 College Street,,Montreal,Quebec,QC,H1Y 2H5,Canada
+407,AW00000407,Specialty Bike Shop,Workout Emporium,36,150000,1980,700 Bureau Road,,Montreal,Quebec,QC,H1Y 2H7,Canada
+48,AW00000048,Warehouse,Grand Industries,81,300000,1996,6333 Cote Vertu,,Montreal,Quebec,QC,H1Y 2H7,Canada
+246,AW00000246,Value Added Reseller,Large Bike Shop,17,80000,1991,600 Boul. Rene-levesque Ouest,,Montreal,Quebec,QC,H1Y 2H7,Canada
+281,AW00000281,Warehouse,Petroleum Products Distributors,86,300000,1982,20225 Lansing Ave,,Montreal,Quebec,QC,H1Y 2H7,Canada
+156,AW00000156,Specialty Bike Shop,Metal Processing Company,47,150000,1990,770 Notre Datme Quest Bureau 800,,Montreal,Quebec,QC,H1Y 2H7,Canada
+586,AW00000586,Specialty Bike Shop,One Bike Company,49,150000,1993,5 place Ville-Marie,,Montreal,Quebec,QC,H1Y 2H7,Canada
+685,AW00000685,Value Added Reseller,Family Cycle Store,16,80000,1998,"660 Saint-Jacques, Bureau 400",,Montreal,Quebec,QC,H1Y 2H8,Canada
+244,AW00000244,Specialty Bike Shop,Retail Discount Store,34,150000,1987,2510 Crew Court,,Montreal,Quebec,QC,H1Y 2H8,Canada
+336,AW00000336,Warehouse,Primary Bike Distributors,46,150000,1990,965 De La Gauchetiere West,,Montreal,Quebec,QC,H1Y 2H8,Canada
+406,AW00000406,Value Added Reseller,The Commissary,6,30000,1974,"Bureau 9900 825, Avenue Querbes",,Outremont,Quebec,QC,H1Y 2G5,Canada
+119,AW00000119,Value Added Reseller,Red Bicycle Company,11,80000,1992,"99, Rue Saint-pierre",,Pnot-Rouge,Quebec,QC,J1E 2T7,Canada
+30,AW00000030,Warehouse,Cycle Merchants,67,300000,1995,575 Rue St Amable,,Quebec,Quebec,QC,G1R,Canada
+550,AW00000550,Specialty Bike Shop,Remote Bicycle Specialists,13,80000,1982,No. 2000-25080 Beaver Hall Hill,,Quebec,Quebec,QC,G1R,Canada
+282,AW00000282,Value Added Reseller,Quick Parts and Service,5,30000,1988,"99954 Boul. Laurier, Local 060, Place",,Sainte-Foy,Quebec,QC,G1W,Canada
+533,AW00000533,Value Added Reseller,Tenth Bike Store,18,80000,1998,Depot 80,,Sillery,Quebec,QC,G1T,Canada
+479,AW00000479,Value Added Reseller,General Supplies,12,80000,1992,9693 Louis H Lafontaine,,Ville De'anjou,Quebec,QC,J1G 2R3,Canada
+50,AW00000050,Specialty Bike Shop,Hometown Riding Supplies,46,150000,1995,Bundesallee 9571,Rechnungsstelle - C 035,Berlin,Brandenburg,BB,14197,Germany
+482,AW00000482,Value Added Reseller,"Fabrikam Inc., East",11,80000,1997,Ro†str 9938,Verkaufsabteilung,Eilenburg,Brandenburg,BB,4838,Germany
+633,AW00000633,Value Added Reseller,Rustic Bike Store,12,80000,1980,Buergermeister-ulrich-str 3000,Buchhaltung,Augsburg,Bayern,BY,86150,Germany
+639,AW00000639,Value Added Reseller,Producer Goods Clearinghouse,16,80000,1992,Postfach 55 00 00,,Frankfurt,Bayern,BY,91480,Germany
+266,AW00000266,Warehouse,Excellent Bikes,81,300000,1996,Hans-Rosenthal-Platz 4223,,Grevenbroich,Bayern,BY,41485,Germany
+230,AW00000230,Warehouse,Global Bike Retailers,49,150000,1996,K?nigsteiner Stra†e 9,,Bad Soden,Hessen,HE,65800,Germany
+122,AW00000122,Value Added Reseller,Off-Price Bike Center,14,80000,1998,Postfach 11 09 00,,Berlin,Hessen,HE,14111,Germany
+518,AW00000518,Value Added Reseller,Regional Cycle Shop,8,30000,1979,Karl Liebknecht str 399,Leiter der Abteilung,Berlin,Hessen,HE,14111,Germany
+500,AW00000500,Value Added Reseller,Irregulars Outlet,5,30000,1988,Pappelallee 19,,Dresden,Hessen,HE,1071,Germany
+104,AW00000104,Specialty Bike Shop,Very Best Sports Supply,28,100000,1975,KurfÅrstenstr 9,,Duesseldorf,Hessen,HE,40605,Germany
+356,AW00000356,Specialty Bike Shop,Speedometer Sales,37,150000,1999,Am Karlshof 8200,,Hamburg,Hessen,HE,22001,Germany
+212,AW00000212,Value Added Reseller,Enterprise Center,19,80000,2004,KurfÅrstenstr 574,,MÅnchen,Hessen,HE,80074,Germany
+374,AW00000374,Specialty Bike Shop,Major Equipment Co,47,150000,1990,Holzstr 6444,,Salzgitter,Hessen,HE,38231,Germany
+657,AW00000657,Warehouse,Links Works,40,150000,1978,Helsenbergbogen 6,,Ascheim,Hamburg,HH,86171,Germany
+663,AW00000663,Warehouse,Capital Riding Supplies,46,150000,1990,Buergermeister-ulrich-str 9500,,Augsburg,Hamburg,HH,86171,Germany
+446,AW00000446,Value Added Reseller,Fitness Toys,11,80000,1992,Auf Der Steige 1000,,Berlin,Hamburg,HH,14111,Germany
+140,AW00000140,Value Added Reseller,Teen Discount Store,16,80000,1998,Haberstr 29,,Bonn,Hamburg,HH,53131,Germany
+86,AW00000086,Specialty Bike Shop,Bicycle Exporters,34,150000,1976,Hellweg 4934,,Essen,Hamburg,HH,45001,Germany
+320,AW00000320,Warehouse,Amalgamated Parts Shop,99,300000,2003,Brunnenstr 422,,Frankfurt am Main,Hamburg,HH,60082,Germany
+392,AW00000392,Specialty Bike Shop,Primary Cycle Shop,41,150000,1981,Am Grossen Dern 982,,Hamburg,Hamburg,HH,20354,Germany
+68,AW00000068,Specialty Bike Shop,North Bike Company,40,150000,1986,Auf Der Steige 29,,Muehlheim,Hamburg,HH,63151,Germany
+194,AW00000194,Value Added Reseller,Mechanical Brake Manufacturers,10,80000,1974,Alte Landstr 776,,MÅnchen,Hamburg,HH,80074,Germany
+554,AW00000554,Warehouse,Top of the Line Bikes,46,150000,1990,Knaackstr 7,,Paderborn,Hamburg,HH,33041,Germany
+284,AW00000284,Warehouse,Nearby Bike Mall,87,300000,1987,Nonnendamm 63,,Berlin,Nordrhein-Westfalen,NW,14197,Germany
+158,AW00000158,Value Added Reseller,Rural Sporting Goods,10,80000,1989,Auf der Krone 53,,Bonn,Nordrhein-Westfalen,NW,53131,Germany
+572,AW00000572,Warehouse,Versatile Sporting Goods Company,64,300000,2000,Alderstr 1849,,Braunschweig,Nordrhein-Westfalen,NW,38001,Germany
+428,AW00000428,Specialty Bike Shop,West Wind Distributors,29,100000,2005,Kr?nerweg 9249,,Hannover,Nordrhein-Westfalen,NW,30601,Germany
+615,AW00000615,Value Added Reseller,Fast Services,3,30000,1985,K?nigsteiner Stra†e 449,,Leipzig,Nordrhein-Westfalen,NW,4139,Germany
+687,AW00000687,Warehouse,Functional Store South,70,300000,1997,Viktoria-Luise-Platz 475,,MÅnchen,Nordrhein-Westfalen,NW,80074,Germany
+536,AW00000536,Value Added Reseller,Next Door Cycles,20,100000,2004,Brunnenstr 9511,,Berlin,Saarland,SL,14197,Germany
+14,AW00000014,Specialty Bike Shop,Bicycle Warehouse Inc.,22,100000,2000,Karl Liebknecht str 299,,Frankfurt am Main,Saarland,SL,60075,Germany
+410,AW00000410,Specialty Bike Shop,Pedaling Components,35,150000,1992,Conesweg 49,,Kiel,Saarland,SL,24044,Germany
+176,AW00000176,Value Added Reseller,Rodeway Bike Store,4,30000,1980,Winterfeldtstr 5557,Kreditorenbuchhaltung,MÅnster,Saarland,SL,48001,Germany
+302,AW00000302,Warehouse,Best Cycle Store,93,300000,1978,Berliner Platz 45,,Offenbach,Saarland,SL,63009,Germany
+590,AW00000590,Warehouse,Lustrous Paints and Components,80,300000,1991,KurfÅrstenstr 74,,Poing,Saarland,SL,66041,Germany
+464,AW00000464,Value Added Reseller,Educational Services,17,80000,1991,Wallstr 244,,SaarbrÅcken,Saarland,SL,66001,Germany
+338,AW00000338,Specialty Bike Shop,Rambling Tours,19,80000,1994,Rotth?user Weg 511,,Stuttgart,Saarland,SL,70511,Germany
+32,AW00000032,Specialty Bike Shop,Precision Gears Inc.,40,150000,1999,Ro†str 2248,,Stuttgart,Saarland,SL,70511,Germany
+248,AW00000248,Warehouse,Good Bicycle Store,67,300000,1995,Werftstr 4400,,Sulzbach Taunus,Saarland,SL,66272,Germany
+681,AW00000681,Warehouse,Showcase for Cycles,64,300000,2000,Erftplatz 22,,Sulzbach Taunus,Saarland,SL,66272,Germany
+193,AW00000193,Warehouse,Perfect Toys,93,300000,1978,"68081, place du Tertre",,Colomiers,Garonne (Haute),31,31770,France
+409,AW00000409,Value Added Reseller,Outdoor Toy Store,8,30000,1979,"18, rue de l'Esplanade",,Aujan Mournede,Gers,32,32300,France
+481,AW00000481,Warehouse,Getaway Inn,80,300000,1991,"54, avenue des Ternes",,Saint Ouen,Loir et Cher,41,41100,France
+121,AW00000121,Warehouse,Metro Sports Equipment,49,150000,1996,"6, rue des Pyrenees",,Saint Ouen,Loir et Cher,41,41100,France
+175,AW00000175,Warehouse,Registered Cycle Store,87,300000,1987,"26, rue Saint Denis",,Orleans,Loiret,45,45000,France
+499,AW00000499,Warehouse,Racing Sales and Service,86,300000,1982,"510, avenue de Villiers",,Orleans,Loiret,45,45000,France
+662,AW00000662,Specialty Bike Shop,Finer Sporting Goods,16,80000,1988,"28, avenue des Champs-Elys?es",,Croix,Nord,59,59170,France
+49,AW00000049,Value Added Reseller,Neighborhood Bicycle Storehouse,10,80000,1989,"69, boulevard Tremblay",,Roncq,Nord,59,59223,France
+571,AW00000571,Specialty Bike Shop,Community Department Stores,34,150000,1987,"3639, rue des Grands Champs",,Boulogne-sur-Mer,Pas de Calais,62,62200,France
+355,AW00000355,Value Added Reseller,Spare Parts Co.,17,80000,1991,"3101, avenue de Malakoff",,Paris,Seine (Paris),75,75003,France
+391,AW00000391,Value Added Reseller,Pretty Bikes and Toys,5,30000,1988,"9005, rue des Bouchers",,Paris,Seine (Paris),75,75005,France
+656,AW00000656,Specialty Bike Shop,Impervious Paint Company,10,80000,1976,"3383, rue Lamarck",,Paris,Seine (Paris),75,75007,France
+553,AW00000553,Specialty Bike Shop,Accessories Network,16,80000,1988,"699bis, rue des Peupliers",,Paris,Seine (Paris),75,75008,France
+589,AW00000589,Specialty Bike Shop,Hiatus Bike Tours,48,150000,1998,"3833, boulevard Beau Marchais",,Paris,Seine (Paris),75,75009,France
+427,AW00000427,Value Added Reseller,Atypical Bike Company,20,100000,2004,"7551, avenue Foch",,Paris,Seine (Paris),75,75010,France
+638,AW00000638,Warehouse,Metropolitan Equipment,96,300000,1990,"88, avenue de l' Union Centrale",,Paris,Seine (Paris),75,75012,France
+31,AW00000031,Value Added Reseller,Wheels Inc.,16,80000,1998,"21105, rue de Varenne",,Paris,Seine (Paris),75,75013,France
+265,AW00000265,Specialty Bike Shop,Full Sports Supply,47,150000,1990,"39, route de Marseille",,Paris,Seine (Paris),75,75016,France
+614,AW00000614,Warehouse,Favorite Toy Distributor,88,300000,1979,"1, place de la R?publique",,Paris,Seine (Paris),75,75017,France
+157,AW00000157,Warehouse,Ace Bicycle Supply,81,300000,1996,"36, avenue de la Gare",,Paris,Seine (Paris),75,75019,France
+301,AW00000301,Specialty Bike Shop,Rural Mountain Bike Mart,35,150000,1992,"98, rue Montcalm",,Paris,Seine (Paris),75,75019,France
+211,AW00000211,Warehouse,Sports Products Store,99,300000,2003,"98, rue de Terre Neuve",,Lieusaint,Seine et Marne,77,77127,France
+283,AW00000283,Specialty Bike Shop,Racing Supply Distributors,41,150000,1981,"57, rue des Vendangeurs",,Roissy en Brie,Seine et Marne,77,77680,France
+13,AW00000013,Value Added Reseller,Country Parts Shop,14,80000,1998,"7033, rue de Longchamp",,Les Ulis,Essonne,91,91940,France
+373,AW00000373,Value Added Reseller,Township Inn,11,80000,1997,"61, rue Henri Gagnon",,Les Ulis,Essonne,91,91940,France
+517,AW00000517,Warehouse,Racing Store,92,300000,1991,"30, avenue de l' Union Centrale",,Les Ulis,Essonne,91,91940,France
+463,AW00000463,Warehouse,Brand New Bikes,64,300000,2000,"215, avenue Reille",,Les Ulis,Essonne,91,91940,France
+632,AW00000632,Warehouse,Ultimate Bicycle Company,94,300000,1978,"12, rue Lafayette",,Morangis,Essonne,91,91420,France
+67,AW00000067,Value Added Reseller,Self-Contained Cycle Parts Company,4,30000,1980,"12, rue des Grands Champs",,Verrieres Le Buisson,Essonne,91,91370,France
+139,AW00000139,Warehouse,Steel Inc.,67,300000,1995,"5, place de la Concorde",,Colombes,Hauts de Seine,92,92700,France
+229,AW00000229,Specialty Bike Shop,Instant Cycle Store,19,80000,1994,"21801, rue L?o Delibes",,Colombes,Hauts de Seine,92,92700,France
+85,AW00000085,Value Added Reseller,Roadway Bicycle Supply,10,80000,1974,"121, rue de Varenne",,Courbevoie,Hauts de Seine,92,92400,France
+337,AW00000337,Value Added Reseller,Recreation Toy Store,11,80000,1992,"39, avenue des Laurentides",,Paris La Defense,Hauts de Seine,92,92081,France
+680,AW00000680,Specialty Bike Shop,Racing Tours,34,150000,1987,"21, avenue de la Gare",,Sävres,Hauts de Seine,92,92310,France
+686,AW00000686,Specialty Bike Shop,Finished Parts Shop,40,150000,1999,"62, route de Marseille",,Suresnes,Hauts de Seine,92,92150,France
+319,AW00000319,Specialty Bike Shop,Cycles Sales and Repair,29,100000,2005,"3387, rue Marbeuf",,Bobigny,Seine Saint Denis,93,93000,France
+445,AW00000445,Warehouse,First Center,46,150000,1990,"22, rue Lafayette",,Pantin,Seine Saint Denis,93,93500,France
+103,AW00000103,Value Added Reseller,The Bike Outlet,19,80000,2004,"22, rue du D?part",,Pantin,Seine Saint Denis,93,93500,France
+247,AW00000247,Specialty Bike Shop,Major Amusement Company,37,150000,1999,"2111, rue de Linois",,Orly,Val de Marne,94,94310,France
+535,AW00000535,Warehouse,Spa and Exercise Outfitters,98,300000,2002,"33, rue Georges-Cl?menceau",,Cergy,Val d'Oise,95,95000,France
+304,AW00000304,Specialty Bike Shop,Essential Bike Works,34,150000,1976,"New Millhouse, 2583 Milton Park",,Abingdon,England,ENG,OX14 4SE,United Kingdom
+232,AW00000232,Specialty Bike Shop,Exceptional Cycle Services,22,100000,2000,Wade Road,,Basingstoke Hants,England,ENG,RG24 8PL,United Kingdom
+484,AW00000484,Warehouse,Downhill Bicycle Specialists,81,300000,1996,725a The Arches,,Berks,England,ENG,SL4 1RH,United Kingdom
+376,AW00000376,Value Added Reseller,Commerce Bicycle Specialists,10,80000,1989,Wharfdale Road,,Berkshire,England,ENG,RG11 5TP,United Kingdom
+412,AW00000412,Value Added Reseller,Leisure Clearing House,10,80000,1974,Unit 99a Battery Retail Pk,,Birmingham,England,ENG,B29 6SL,United Kingdom
+430,AW00000430,Value Added Reseller,Uttermost Bike Shop,19,80000,2004,Ellesfield Ave,,Bracknell,England,ENG,RG12 8TB,United Kingdom
+635,AW00000635,Warehouse,Sports Store,95,300000,1984,"Internet House, 3399 Science Park",,Cambridge,England,ENG,CB4 4BZ,United Kingdom
+52,AW00000052,Value Added Reseller,Instruments and Parts Company,9,30000,1994,"Phoenix Way, Cirencester",,Gloucestershire,England,ENG,GL7 1RY,United Kingdom
+268,AW00000268,Specialty Bike Shop,Channel Outlet,46,150000,1995,Knaves Beech Ind.,,High Wycombe,England,ENG,HP10 9QY,United Kingdom
+214,AW00000214,Warehouse,Exclusive Bicycle Mart,100,300000,2003,"Butterfield Hse, 7-251 Chapel St",,Lancaster,England,ENG,LA1 1LN,United Kingdom
+70,AW00000070,Value Added Reseller,Outdoor Aerobic Systems Company,3,30000,1985,255 Irving Street,,London,England,ENG,C2H 7AU,United Kingdom
+538,AW00000538,Warehouse,Prosperous Tours,99,300000,2003,99-3 Forest Works,,London,England,ENG,E17 6JF,United Kingdom
+574,AW00000574,Specialty Bike Shop,Area Sheet Metal Supply,37,150000,1999,399 Clearing Green,,London,England,ENG,EC1R 0DU,United Kingdom
+16,AW00000016,Value Added Reseller,Bulk Discount Store,17,80000,2004,"93-2501, Blackfriars Road,",,London,England,ENG,SE1 8HL,United Kingdom
+659,AW00000659,Specialty Bike Shop,Shipping Specialists,13,80000,1982,"25 Hartfield Road, Wimbledon",,London,England,ENG,SW19 3RU,United Kingdom
+689,AW00000689,Specialty Bike Shop,Consumer Equipment,43,150000,1996,"67 Vincent Square, Victoria",,London,England,ENG,SW1P 2NU,United Kingdom
+250,AW00000250,Specialty Bike Shop,Express Bike Services,40,150000,1999,"586 Fulham Road,",,London,England,ENG,SW6 SBY,United Kingdom
+592,AW00000592,Specialty Bike Shop,Cycling Goods,47,150000,1990,997b Tradescant Road,,London,England,ENG,SW8 1XD,United Kingdom
+641,AW00000641,Warehouse,Extended Tours,97,300000,1996,"7 Garden House Cloisters, 8 Batters",,London,England,ENG,SW8 4BG,United Kingdom
+520,AW00000520,Warehouse,Metro Metals Co.,93,300000,1978,2524 Barlby Road,,London,England,ENG,W10 6BL,United Kingdom
+502,AW00000502,Warehouse,Metropolitan Bicycle Supply,87,300000,1987,Paramount House,,London,England,ENG,W1N 9FA,United Kingdom
+665,AW00000665,Specialty Bike Shop,Authentic Sales and Service,19,80000,1994,"99 Dean Street, Soho",,London,England,ENG,W1V 5RN,United Kingdom
+556,AW00000556,Specialty Bike Shop,Variety Cycling,19,80000,1994,46-44 Albemarle Street,,London,England,ENG,W1X3SE,United Kingdom
+683,AW00000683,Specialty Bike Shop,Oils and Fluids Warehouse,37,150000,1999,"Park House-4th Floor, 2516 Park St.",,London,England,ENG,W1Y 3RA,United Kingdom
+466,AW00000466,Warehouse,Central Bicycle Specialists,67,300000,1995,"6 The Farm, Liberty Road",,Maidenhead,England,ENG,SL67RJ,United Kingdom
+322,AW00000322,Specialty Bike Shop,Tachometers and Accessories,28,100000,1975,Wymbush,,Milton Keynes,England,ENG,MK8 8DF,United Kingdom
+196,AW00000196,Warehouse,Exhibition Showroom,94,300000,1978,"Garamonde Drive, Wymbush",P.O. Box 803,Milton Keynes,England,ENG,MK8 8ZD,United Kingdom
+88,AW00000088,Value Added Reseller,Closest Bicycle Store,12,80000,1980,"Garamonde Drive, Wymbush",PO Box 4023,Milton Keynes,England,ENG,MK8 8ZD,United Kingdom
+617,AW00000617,Warehouse,Tubeless Tire Company,89,300000,1984,2574 Milton Park,,Oxford,England,ENG,OX14 4SE,United Kingdom
+160,AW00000160,Warehouse,Vigorous Sports Store,82,300000,1988,Banbury,,Oxon,England,ENG,OX16 8RS,United Kingdom
+286,AW00000286,Specialty Bike Shop,Number One Bike Co.,40,150000,1986,"Elmhurst Road, Goring",,Reading,England,ENG,RG7 5H7,United Kingdom
+142,AW00000142,Warehouse,Riding Cycles,70,300000,1997,Galashiels,,Liverpool,England,ENG,L4 4HB,United Kingdom
+124,AW00000124,Warehouse,Nearby Sporting Goods,52,300000,2002,Bradford,,W. York,England,ENG,BD1 4SJ,United Kingdom
+178,AW00000178,Warehouse,Rampart Amusement Company,88,300000,1979,Bradford,"Raven House, Kingsgate",W. York,England,ENG,BD1 4SJ,United Kingdom
+34,AW00000034,Value Added Reseller,Cycles Wholesaler & Mfg.,15,80000,2003,"Science Park South, Birchwood",Stanford House,Warrington,England,ENG,WA3 7BH,United Kingdom
+340,AW00000340,Value Added Reseller,Nearby Cycle Shop,14,80000,1998,Burgess Hill,Edward Way,West Sussex,England,ENG,RH15 9UD,United Kingdom
+106,AW00000106,Value Added Reseller,West Side Mart,18,80000,1979,251 The Metro Center,,Wokingham,England,ENG,RG41 1QW,United Kingdom
+448,AW00000448,Warehouse,Action Bicycle Specialists,49,150000,1996,Warrington Ldc Unit 25/2,,Woolston,England,ENG,WA1 4SY,United Kingdom
+358,AW00000358,Value Added Reseller,Mail Market,16,80000,1998,308-3250 Casting Road,,York,England,ENG,Y024 1GF,United Kingdom
+394,AW00000394,Value Added Reseller,Little Sports Center,4,30000,1980,7 Pioneer Business Park,,York,England,ENG,Y03 4TN,United Kingdom
+296,AW00000296,Warehouse,Extreme Toy Store,91,300000,1981,7725 Luddington Lane,,Birmingham,Alabama,AL,35203,United States
+224,AW00000224,Warehouse,Pedal Systems Company,43,150000,1984,656 Cox Creek Pkwy.,,Florence,Alabama,AL,35630,United States
+44,AW00000044,Specialty Bike Shop,Games and Sport Supply Company,48,150000,1998,2525 Electrics Blvd.,,Huntsville,Alabama,AL,35801,United States
+387,AW00000387,Warehouse,Racing Association,85,300000,1990,Parkway City Mall,,Huntsville,Alabama,AL,35801,United States
+189,AW00000189,Specialty Bike Shop,Principal Bicycle Supply,36,150000,1980,39950 Airport Blvd.,,Mobile,Alabama,AL,36602,United States
+332,AW00000332,Specialty Bike Shop,Topnotch Bikes,13,80000,1982,574 Atlanta Highway,,Montgomery,Alabama,AL,36104,United States
+205,AW00000205,Warehouse,Rally Master Company Inc,97,300000,1996,870 N. 54th Ave.,,Chandler,Arizona,AZ,85225,United States
+625,AW00000625,Specialty Bike Shop,Major Sporting Goods,36,150000,1980,9980 S Alma School Road,,Chandler,Arizona,AZ,85225,United States
+563,AW00000563,Warehouse,Systematic Sales,55,300000,2003,2551 East Warner Road,,Gilbert,Arizona,AZ,85233,United States
+457,AW00000457,Warehouse,Retail Sporting Equipment,58,300000,2003,Factory Stores Of America,,Mesa,Arizona,AZ,85201,United States
+473,AW00000473,Value Added Reseller,Racing Toys,14,80000,1995,Prime Outlets,,Phoenix,Arizona,AZ,85004,United States
+437,AW00000437,Value Added Reseller,Professional Cycle Store,2,30000,1974,Arcadia Crossing,,Phoenix,Arizona,AZ,85004,United States
+475,AW00000475,Warehouse,Real Sporting Goods,76,300000,1994,7709 West Virginia Avenue,,Phoenix,Arizona,AZ,85004,United States
+624,AW00000624,Value Added Reseller,First Cycle Store,6,30000,1974,25250 N 90th St,,Scottsdale,Arizona,AZ,85257,United States
+610,AW00000610,Specialty Bike Shop,Fitness Department Stores,41,150000,1981,7750 E Marching Rd,,Scottsdale,Arizona,AZ,85257,United States
+583,AW00000583,Specialty Bike Shop,Professional Containers and Packaging Co.,46,150000,2001,253731 West Bell Road,,Surprise,Arizona,AZ,85374,United States
+509,AW00000509,Value Added Reseller,Fun Toys and Bikes,2,30000,1977,6500 East Grant Road,,Tucson,Arizona,AZ,85701,United States
+439,AW00000439,Warehouse,Regional Manufacturing,40,150000,1978,Factory Stores/tucson,,Tucson,Arizona,AZ,85701,United States
+277,AW00000277,Specialty Bike Shop,The Bicycle Accessories Company,43,150000,1984,Vista Marketplace,,Alhambra,California,CA,91801,United States
+455,AW00000455,Value Added Reseller,Timely Shipping Service,20,100000,2004,Viejas Outlet Center,,Alpine,California,CA,91901,United States
+609,AW00000609,Value Added Reseller,Good Toys,5,30000,1988,99700 Bell Road,,Auburn,California,CA,95603,United States
+492,AW00000492,Specialty Bike Shop,Basic Sports Equipment,44,150000,1992,3250 Baldwin Park Blvd,,Baldwin Park,California,CA,91706,United States
+365,AW00000365,Specialty Bike Shop,Distinctive Store,46,150000,2001,Factory Merchants,,Barstow,California,CA,92311,United States
+168,AW00000168,Specialty Bike Shop,Economy Bikes Company,43,150000,1984,72502 Eastern Ave.,,Bell Gardens,California,CA,90201,United States
+6,AW00000006,Warehouse,Aerobic Exercise Company,43,150000,1984,39933 Mission Oaks Blvd,,Camarillo,California,CA,93010,United States
+402,AW00000402,Warehouse,Pro Sporting Goods,90,300000,1976,Camarillo Athletic Stores,,Camarillo,California,CA,93010,United States
+529,AW00000529,Warehouse,Big-Time Bike Store,96,300000,1990,9909 W. Ventura Boulevard,,Camarillo,California,CA,93010,United States
+241,AW00000241,Specialty Bike Shop,Vale Riding Supplies,31,150000,2002,Topanga Plaza,,Canoga Park,California,CA,91303,United States
+167,AW00000167,Value Added Reseller,Farthermost Bike Shop,7,30000,1991,99000 S. Avalon Blvd. Suite 750,,Carson,California,CA,90746,United States
+187,AW00000187,Warehouse,Trailblazing Sports,91,300000,1981,251340 E. South St.,,Cerritos,California,CA,90703,United States
+493,AW00000493,Warehouse,Valley Bicycle Distributors,84,300000,1985,5867 Sunrise Boulevard,,Citrus Heights,California,CA,95610,United States
+366,AW00000366,Warehouse,Extended Bike Sales,76,300000,1994,The Citadel Commerce Plaza,,City Of Commerce,California,CA,90040,United States
+312,AW00000312,Value Added Reseller,Resale Services,16,80000,1992,Fox Hills,,Culver City,California,CA,90232,United States
+151,AW00000151,Warehouse,Futuristic Bikes,79,300000,1999,25136 Jefferson Blvd.,,Culver City,California,CA,90232,United States
+674,AW00000674,Specialty Bike Shop,Discount Tours,28,100000,1975,603 Gellert Blvd,,Daly City,California,CA,94015,United States
+329,AW00000329,Specialty Bike Shop,"Unicycles, Bicycles, and Tricycles",10,80000,1976,Stonewood Mall,,Downey,California,CA,90241,United States
+313,AW00000313,Specialty Bike Shop,Metropolitan Manufacturing,31,150000,1994,Parkway Plaza,,El Cajon,California,CA,92020,United States
+25,AW00000025,Value Added Reseller,Coalition Bike Company,18,80000,2001,Corporate Office,,El Segundo,California,CA,90245,United States
+131,AW00000131,Value Added Reseller,Eighth Bike Store,19,80000,1979,2500 N Serene Blvd,19th Floor,El Segundo,California,CA,90245,United States
+648,AW00000648,Value Added Reseller,Small Bike Shop,19,80000,2004,Corp Ofc Accts Payable,,El Segundo,California,CA,90245,United States
+528,AW00000528,Specialty Bike Shop,Alpine Ski House,32,150000,1988,7505 Laguna Boulevard,,Elk Grove,California,CA,95624,United States
+257,AW00000257,Warehouse,Number 1 Supply,76,300000,1994,Escondido,,Escondido,California,CA,92025,United States
+474,AW00000474,Specialty Bike Shop,Retail Cycle Shop,46,150000,2001,Bayshore Mall,,Eureka,California,CA,95501,United States
+113,AW00000113,Value Added Reseller,Trendy Department Stores,5,30000,1980,25472 Marlay Ave,,Fontana,California,CA,92335,United States
+5,AW00000005,Specialty Bike Shop,Metropolitan Sports Supply,13,80000,1982,482505 Warm Springs Blvd.,,Fremont,California,CA,94536,United States
+61,AW00000061,Value Added Reseller,Many Bikes Store,6,30000,1983,Receiving,,Fullerton,California,CA,92831,United States
+385,AW00000385,Value Added Reseller,Sturdy Toys,7,30000,1991,Pacific West Outlet,,Gilroy,California,CA,95020,United States
+330,AW00000330,Warehouse,The New Bike Store,40,150000,1978,Hanford Mall,,Hanford,California,CA,93230,United States
+60,AW00000060,Warehouse,Main Bicycle Services,85,300000,1990,60750 San Clemente,,Hayward,California,CA,94541,United States
+456,AW00000456,Specialty Bike Shop,Riding Excursions,28,100000,1975,West Park Plaza,,Irvine,California,CA,92614,United States
+608,AW00000608,Warehouse,Golf and Cycle Store,86,300000,1982,5500 Grossmont Center Drive,,La Mesa,California,CA,91941,United States
+403,AW00000403,Value Added Reseller,Affordable Sports Equipment,4,30000,1982,Lake Elisnor Place,,Lake Elsinore,California,CA,92530,United States
+275,AW00000275,Warehouse,Outdoor Sporting Goods,84,300000,1985,Lakewood Mall,,Lakewood,California,CA,90712,United States
+41,AW00000041,Specialty Bike Shop,Distant Inn,49,150000,1993,25001 Montague Expressway,,Milpitas,California,CA,95035,United States
+133,AW00000133,Warehouse,Commercial Sporting Goods,61,300000,1983,9700 Sisk Road,,Modesto,California,CA,95354,United States
+491,AW00000491,Value Added Reseller,Area Bike Accessories,8,30000,1986,6900 Sisk Road,,Modesto,California,CA,95354,United States
+203,AW00000203,Value Added Reseller,Separate Parts Corporation,16,80000,1992,440 West Huntington Dr.,,Monrovia,California,CA,91016,United States
+97,AW00000097,Value Added Reseller,Mountain Bike Center,18,80000,1998,6756 Mowry,,Newark,California,CA,94560,United States
+42,AW00000042,Warehouse,Healthy Activity Store,79,300000,1999,4460 Newport Center Drive,,Newport Beach,California,CA,92625,United States
+419,AW00000419,Specialty Bike Shop,Exertion Activities Club,32,150000,1988,Norwalk Square,,Norwalk,California,CA,90650,United States
+600,AW00000600,Value Added Reseller,Strenuous Exercise Shop,8,30000,1986,25620 Firestone Boulevard,,Norwalk,California,CA,90650,United States
+331,AW00000331,Value Added Reseller,Technical Parts Manufacturing,5,30000,1980,Ontario Mills,,Ontario,California,CA,91764,United States
+78,AW00000078,Warehouse,Preferred Bikes,91,300000,1981,Incom Sports Center,,Ontario,California,CA,91764,United States
+240,AW00000240,Value Added Reseller,Wire Baskets and Parts,19,80000,1979,Mall Of Orange,,Orange,California,CA,92867,United States
+276,AW00000276,Value Added Reseller,Thrifty Parts and Sales,7,30000,1991,Oxnard Outlet,,Oxnard,California,CA,93030,United States
+295,AW00000295,Specialty Bike Shop,Engineered Bike Systems,37,150000,1975,123 Camelia Avenue,,Oxnard,California,CA,93030,United States
+95,AW00000095,Specialty Bike Shop,Rural Department Store,31,150000,1994,5967 W Las Positas Blvd,,Pleasanton,California,CA,94566,United States
+383,AW00000383,Specialty Bike Shop,Vehicle Shop,44,150000,1992,Pavillion @ Redlands,,Redlands,California,CA,92373,United States
+258,AW00000258,Value Added Reseller,Quantity Discounts,13,80000,2000,Natomas Marketplace,,Sacramento,California,CA,95814,United States
+545,AW00000545,Value Added Reseller,Finish and Sealant Products,17,80000,2001,25150 El Camino Real,,San Bruno,California,CA,94066,United States
+367,AW00000367,Value Added Reseller,Brown Bicycle Company,13,80000,2000,University Town Center,,San Diego,California,CA,92102,United States
+77,AW00000077,Specialty Bike Shop,Mechanical Products Ltd.,37,150000,1975,22555 Paseo De Las Americas,,San Diego,California,CA,92102,United States
+114,AW00000114,Specialty Bike Shop,Two Wheels Cycle Store,13,80000,1982,77 Beale Street,Room 99767c,San Francisco,California,CA,94109,United States
+185,AW00000185,Value Added Reseller,Weekend Bike Tours,4,30000,1982,630 N. Capitol Ave.,,San Jose,California,CA,95112,United States
+349,AW00000349,Value Added Reseller,Exercise Center,19,80000,1979,Stevens Creek Shopping Center,,San Jose,California,CA,95112,United States
+511,AW00000511,Warehouse,Wheel Gallery,90,300000,1976,9920 Bridgepointe Parkway,,San Mateo,California,CA,94404,United States
+23,AW00000023,Specialty Bike Shop,Bike World,31,150000,2002,60025 Bollinger Canyon Road,,San Ramon,California,CA,94583,United States
+384,AW00000384,Warehouse,Sparkling Paint and Finishes,84,300000,1985,San Diego Factory,,San Ysidro,California,CA,92173,United States
+599,AW00000599,Warehouse,Westside Plaza,83,300000,1993,99040 California Avenue,,Sand City,California,CA,93955,United States
+649,AW00000649,Specialty Bike Shop,Sports Products Store,28,100000,1975,Po Box 252525,,Santa Ana,California,CA,92701,United States
+96,AW00000096,Warehouse,More Bikes!,97,300000,1996,25600 E St Andrews Pl,,Santa Ana,California,CA,92701,United States
+239,AW00000239,Warehouse,Bicycle Merchandise Warehouse,58,300000,2003,409 Santa Monica Blvd.,,Santa Monica,California,CA,90401,United States
+420,AW00000420,Warehouse,Extreme Riding Supplies,96,300000,1990,Riverside,,Sherman Oaks,California,CA,91403,United States
+259,AW00000259,Specialty Bike Shop,Highway Bike Shop,49,150000,1993,Simi @ The Plaza,,Simi Valley,California,CA,93065,United States
+150,AW00000150,Specialty Bike Shop,Fleet Bikes,49,150000,1993,54254 Pacific Ave.,,Stockton,California,CA,95202,United States
+204,AW00000204,Specialty Bike Shop,Traction Tire Company,31,150000,1994,99235 Hawthorne Blvd.,,Torrance,California,CA,90505,United States
+510,AW00000510,Specialty Bike Shop,World Bike Discount Store,38,150000,1983,3065 Santa Margarita Parkway,,Trabuco Canyon,California,CA,92679,United States
+24,AW00000024,Warehouse,Eastside Department Store,61,300000,1983,9992 Whipple Rd,,Union City,California,CA,94587,United States
+311,AW00000311,Warehouse,Principal Bike Company,96,300000,1990,Mountain Square,,Upland,California,CA,91786,United States
+347,AW00000347,Specialty Bike Shop,Bike Universe,28,100000,1975,Nut Tree Factory,,Vacaville,California,CA,95688,United States
+582,AW00000582,Value Added Reseller,Professional Sales and Service,14,80000,1995,57251 Serene Blvd,,Van Nuys,California,CA,91411,United States
+59,AW00000059,Specialty Bike Shop,Locks Company,43,150000,1984,70259 West Sunnyview Ave,,Visalia,California,CA,93291,United States
+294,AW00000294,Value Added Reseller,Flawless Bike Shop,4,30000,1982,North County Square,,Vista,California,CA,92084,United States
+565,AW00000565,Specialty Bike Shop,Metallic Paint and Overcoat Co,28,100000,1975,25751 University Drive,,Vista,California,CA,92084,United States
+547,AW00000547,Specialty Bike Shop,Curbside Sporting Goods,10,80000,1976,25871 North Main Street,,Walnut Creek,California,CA,94596,United States
+421,AW00000421,Value Added Reseller,Fitness Cycling,16,80000,1992,The Quad @ WestView,,Whittier,California,CA,90605,United States
+222,AW00000222,Value Added Reseller,Sample Bike Store,5,30000,1980,2530 South Colorado Blvd.,,Denver,Colorado,CO,80203,United States
+223,AW00000223,Specialty Bike Shop,Paints and Solvents Company,13,80000,1982,955 E. County Line Rd.,,Englewood,Colorado,CO,80110,United States
+79,AW00000079,Value Added Reseller,Reasonable Bicycle Sales,6,30000,1974,"C/O Starpak, Inc.",,Greeley,Colorado,CO,80631,United States
+523,AW00000523,Warehouse,Futuristic Sport Distributors,94,300000,1978,5525 South Hover Road,,Longmont,Colorado,CO,80501,United States
+546,AW00000546,Value Added Reseller,Field Trip Store,2,30000,1974,2575 Rocky Mountain Ave.,,Loveland,Colorado,CO,80537,United States
+348,AW00000348,Warehouse,Bold Bike Accessories,58,300000,2003,Rocky Mountain Pines Outlet,,Loveland,Colorado,CO,80537,United States
+527,AW00000527,Value Added Reseller,Fun Times Club,14,80000,1986,8525 South Parker Road,,Parker,Colorado,CO,80138,United States
+132,AW00000132,Specialty Bike Shop,Another Sporting Goods Company,31,150000,2002,5650 West 88th Ave.,,Westminster,Colorado,CO,80030,United States
+149,AW00000149,Value Added Reseller,Initial Bike Company,13,80000,2000,789 West Alameda,,Westminster,Colorado,CO,80030,United States
+143,AW00000143,Value Added Reseller,Modern Bike Store,15,80000,2003,Saltonstall Parkway,,East Haven,Connecticut,CT,6512,United States
+71,AW00000071,Specialty Bike Shop,Outdoor Distributors,39,150000,1978,225 Hyde Rd,,Farmington,Connecticut,CT,6032,United States
+251,AW00000251,Warehouse,Endurance Bikes,70,300000,1997,99200 Dixwell Ave.,,Hamden,Connecticut,CT,6518,United States
+252,AW00000252,Value Added Reseller,Classic Cycle Store,15,80000,2003,630 Oldgate Lane,,Milford,Connecticut,CT,6460,United States
+684,AW00000684,Warehouse,Lease-a-Bike Shop,67,300000,1995,Connecticut Post Mall,,Milford,Connecticut,CT,6460,United States
+691,AW00000691,Value Added Reseller,Mountain Bike Store,14,80000,1995,Amity Plaza,,New Haven,Connecticut,CT,6510,United States
+125,AW00000125,Value Added Reseller,Immediate Repair Shop,17,80000,2004,9963 Tresser Blvd.,,Stamford,Connecticut,CT,6901,United States
+216,AW00000216,Specialty Bike Shop,Painters Bicycle Specialists,27,100000,2002,9975 Union St.,,Waterbury,Connecticut,CT,6710,United States
+215,AW00000215,Value Added Reseller,Eleventh Bike Store,18,80000,1979,25850 Post Road,,Westport,Connecticut,CT,6880,United States
+261,AW00000261,Value Added Reseller,Functional Store North,12,80000,1992,650 E Altamonte Dr,,Altamonte Springs,Florida,FL,32701,United States
+611,AW00000611,Warehouse,Front Runner Bikes,87,300000,1987,DeSouth Square,,Bradenton,Florida,FL,34205,United States
+153,AW00000153,Specialty Bike Shop,Widget Bicycle Specialists,48,150000,1998,23456 Calumet St,,Clearwater,Florida,FL,33755,United States
+549,AW00000549,Value Added Reseller,Daring Rides,5,30000,1980,Bay Area Outlet Mall,,Clearwater,Florida,FL,33755,United States
+458,AW00000458,Value Added Reseller,Simple Bike Parts,19,80000,1979,Silver Sands Factory Outlet,,Destin,Florida,FL,32541,United States
+612,AW00000612,Value Added Reseller,General Associates,4,30000,1980,32525 Hollywood Blvd.,,Hollywood,Florida,FL,33021,United States
+243,AW00000243,Value Added Reseller,Recreation Supplies,18,80000,2001,8789 S.W. 2517 Ave.,,Kendall,Florida,FL,33143,United States
+495,AW00000495,Specialty Bike Shop,Tough and Reliable Parts,43,150000,1984,Market Square Shopping Center,,Lakeland,Florida,FL,33801,United States
+315,AW00000315,Value Added Reseller,Juvenile Sports Equipment,18,80000,1998,78025 E. Mercy Island Cswy,,Merritt Island,Florida,FL,32952,United States
+494,AW00000494,Value Added Reseller,Worthwhile Activity Store,7,30000,1991,Flagler Park Plaza,,Miami,Florida,FL,33127,United States
+242,AW00000242,Warehouse,Spoke Manufacturers,61,300000,1983,2545 N.W. 107th Ave.,,Miami,Florida,FL,33127,United States
+260,AW00000260,Warehouse,Industrial Supplies,79,300000,1999,825 Coral Way,,Miami,Florida,FL,33127,United States
+188,AW00000188,Value Added Reseller,Variety Bike Outlet,6,30000,1974,83995 South Dixie Highway,,Miami,Florida,FL,33127,United States
+81,AW00000081,Warehouse,Rally Day Mall,92,300000,1991,2561 Nw 8410th Avenue,,Miami,Florida,FL,33127,United States
+98,AW00000098,Specialty Bike Shop,Superlative Bikes,30,150000,2000,8525 Nw 17th St.,,Miami,Florida,FL,33127,United States
+26,AW00000026,Specialty Bike Shop,Stylish Department Stores,34,150000,1987,1 Corporate Center Drive,,Miami,Florida,FL,33127,United States
+8,AW00000008,Specialty Bike Shop,Exemplary Cycles,16,80000,1988,79945 Corporate Center Drive,,Miami,Florida,FL,33127,United States
+603,AW00000603,Value Added Reseller,Retail Toy Store,7,30000,1991,"Dadeland Mall, Space 25090",,Miami,Florida,FL,33127,United States
+628,AW00000628,Specialty Bike Shop,Executive Discount Store,35,150000,1992,20500 S.W. 2512th Ave,,Miami,Florida,FL,33127,United States
+675,AW00000675,Warehouse,Bike Goods,58,300000,2003,254075 Biscayne Blvd.,,North Miami Beach,Florida,FL,33162,United States
+278,AW00000278,Warehouse,Tread Industries,85,300000,1990,25631 Florida Mall Ave.,,Orlando,Florida,FL,32804,United States
+440,AW00000440,Value Added Reseller,Hobby Store,5,30000,1980,Highland Lakes Shopping Ctr.,,Orlando,Florida,FL,32804,United States
+530,AW00000530,Value Added Reseller,Valuable Bike Parts Company,16,80000,1992,Belz Factory Outlet,,Orlando,Florida,FL,32804,United States
+99,AW00000099,Warehouse,Unified Sports Company,98,300000,2002,9876 Fruitville Rd,,Sarasota,Florida,FL,34236,United States
+80,AW00000080,Specialty Bike Shop,Racks and Security Systems,36,150000,1980,One Equinox Way,,Sunrise,Florida,FL,33322,United States
+477,AW00000477,Specialty Bike Shop,Quitting Business Distributors,49,150000,1993,University Plaza,,Tampa,Florida,FL,33602,United States
+531,AW00000531,Specialty Bike Shop,Sunny Place Bikes,31,150000,1994,Horizon Outlet Center,,Vero Beach,Florida,FL,32960,United States
+116,AW00000116,Value Added Reseller,Retirement Activities Association,8,30000,1986,42500 West Park Drive,,Atlanta,Georgia,GA,30308,United States
+651,AW00000651,Value Added Reseller,Retread Tire Company,18,80000,1979,9935 Robert C Daniel Jr Parkway,,Augusta,Georgia,GA,30901,United States
+676,AW00000676,Value Added Reseller,Better Bike Shop,19,80000,1979,42525 Austell Road,,Austell,Georgia,GA,30106,United States
+525,AW00000525,Specialty Bike Shop,Cycles and Scooters,33,150000,1982,Peach Festival Outlet,,Byron,Georgia,GA,31008,United States
+152,AW00000152,Value Added Reseller,Distance Bikes,12,80000,1992,Park North Business Center,,Clarkston,Georgia,GA,30021,United States
+476,AW00000476,Value Added Reseller,Noiseless Gear Company,13,80000,2000,Peachtree Mall,,Columbus,Georgia,GA,31901,United States
+368,AW00000368,Specialty Bike Shop,Elemental Sporting Goods,49,150000,1993,99842 White Mill East,,Decatur,Georgia,GA,30030,United States
+459,AW00000459,Specialty Bike Shop,Parts Shop,31,150000,2002,West Georgia Commons,,La Grange,Georgia,GA,30240,United States
+652,AW00000652,Specialty Bike Shop,Selected Distributors,27,100000,2002,99535 Dallas Highway,,Marietta,Georgia,GA,30060,United States
+351,AW00000351,Warehouse,Acclaimed Bicycle Company,61,300000,1983,830 Highway 499 So,,Mcdonough,Georgia,GA,30253,United States
+171,AW00000171,Specialty Bike Shop,Eighty Toy Stores,42,150000,1989,2025 Greenwood Ct,,Mcdonough,Georgia,GA,30253,United States
+584,AW00000584,Warehouse,Qualified Sales and Repair Services,76,300000,1994,Savannah Festival Outlet,,Savannah,Georgia,GA,31401,United States
+117,AW00000117,Specialty Bike Shop,Pedals Warehouse,16,80000,1988,6055 Shawnee Industrial Way,,Suwanee,Georgia,GA,30024,United States
+110,AW00000110,Value Added Reseller,Vintage Sport Boutique,2,30000,1974,22571 South 2500 East,,Idaho Falls,Idaho,ID,83402,United States
+488,AW00000488,Value Added Reseller,Bicycle Accessories and Kits,9,30000,1994,Lewiston Mall,,Lewiston,Idaho,ID,83501,United States
+398,AW00000398,Specialty Bike Shop,Commendable Bikes,39,150000,1978,4781 Highway 95,,Sandpoint,Idaho,ID,83864,United States
+148,AW00000148,Warehouse,Lots of Bikes Storehouse,76,300000,1994,4255 East Lies Road,,Carol Stream,Illinois,IL,60188,United States
+147,AW00000147,Specialty Bike Shop,Local Hardware Factory,46,150000,2001,42500 W 76th St,,Chicago,Illinois,IL,60610,United States
+183,AW00000183,Specialty Bike Shop,This Area Sporting Goods,38,150000,1983,25 N State St,,Chicago,Illinois,IL,60610,United States
+237,AW00000237,Value Added Reseller,Client Discount Store,20,100000,2004,Noah Lane,,Chicago,Illinois,IL,60610,United States
+219,AW00000219,Value Added Reseller,Extras Sporting Goods,2,30000,1974,625 W Jackson Blvd. Unit 2502,,Chicago,Illinois,IL,60610,United States
+58,AW00000058,Value Added Reseller,Largest Bike Store,7,30000,1991,63 W Monroe,,Chicago,Illinois,IL,60610,United States
+111,AW00000111,Specialty Bike Shop,Westside Cycle Store,10,80000,1976,25550 Executive Dr,,Elgin,Illinois,IL,60120,United States
+400,AW00000400,Value Added Reseller,Local Sales and Rental,2,30000,1977,1200 First Ave.,,Joliet,Illinois,IL,60433,United States
+346,AW00000346,Value Added Reseller,Great Bicycle Supply,20,100000,2004,455 256th St.,,Moline,Illinois,IL,61265,United States
+472,AW00000472,Warehouse,Summer Sports Place,73,300000,2002,Ring Plaza,,Norridge,Illinois,IL,60706,United States
+310,AW00000310,Specialty Bike Shop,Orange Bicycle Company,32,150000,1988,123 W. Lake Ave.,,Peoria,Illinois,IL,61606,United States
+622,AW00000622,Specialty Bike Shop,Gift and Toy Store,37,150000,1975,Sports Stores @ Tuscola,,Tuscola,Illinois,IL,61953,United States
+57,AW00000057,Warehouse,Leading Sales & Repair,84,300000,1985,25149 Howard Dr,,West Chicago,Illinois,IL,60185,United States
+129,AW00000129,Specialty Bike Shop,Discount Bicycle Specialists,28,100000,1975,25269 Wood Dale Rd.,,Wood Dale,Illinois,IL,60191,United States
+76,AW00000076,Value Added Reseller,Out-of-the-Way Hotels,4,30000,1982,25269 N. Wood Dale Rd,,Wood Dale,Illinois,IL,60191,United States
+414,AW00000414,Warehouse,Grand Discount Store,94,300000,1978,Indiana Factory Shops,,Daleville,Indiana,IN,47334,United States
+161,AW00000161,Value Added Reseller,Weekend Tours,9,30000,1994,42522 Northrupp,,Fort Wayne,Indiana,IN,46807,United States
+234,AW00000234,Value Added Reseller,Eastside Sporting Goods,17,80000,2004,89950 Castleton Corner,,Indianapolis,Indiana,IN,46204,United States
+432,AW00000432,Warehouse,Super Sports Store,100,300000,2003,Washington Square Ii,,Indianapolis,Indiana,IN,46204,United States
+342,AW00000342,Warehouse,Leather and Vinyl Manufacturing,52,300000,2002,250 E. County Line Rd.,,Indianapolis,Indiana,IN,46204,United States
+636,AW00000636,Value Added Reseller,Recreation Systems,14,80000,1986,Logansport Mall,,Logansport,Indiana,IN,46947,United States
+305,AW00000305,Warehouse,Professional Sporting Goods,94,300000,1978,42500 South Franklin Street,,Michigan City,Indiana,IN,46360,United States
+396,AW00000396,Warehouse,Executive Gift Store,88,300000,1979,New Castle Plaza,,New Castle,Indiana,IN,47362,United States
+36,AW00000036,Warehouse,Exotic Bikes,73,300000,2002,6900 William Richardson Ct.,,South Bend,Indiana,IN,46601,United States
+225,AW00000225,Value Added Reseller,Optimal Bikes,8,30000,1986,25050 S. Columbia Ave,,Campbellsville,Kentucky,KY,42718,United States
+369,AW00000369,Warehouse,Distinctive Cycles Sales & Service,79,300000,1999,Turfway Retail Center,,Florence,Kentucky,KY,41042,United States
+513,AW00000513,Specialty Bike Shop,Village Tours,37,150000,1975,Newport Shopping Center,,Newport,Kentucky,KY,41071,United States
+297,AW00000297,Value Added Reseller,Blue-Ribbon Bike Company,6,30000,1974,790 Shelbyville Road,,Saint Matthews,Kentucky,KY,40207,United States
+441,AW00000441,Specialty Bike Shop,Leading Bike Distributors,13,80000,1982,Grand Central Place,,Somerset,Kentucky,KY,42501,United States
+486,AW00000486,Specialty Bike Shop,Convenient Bike Shop,46,150000,1995,Tree Plaza,,Braintree,Massachusetts,MA,2184,United States
+53,AW00000053,Specialty Bike Shop,Incomparable Bicycle Store,45,150000,1987,99 Edgewater Drive,,Norwood,Massachusetts,MA,2062,United States
+107,AW00000107,Specialty Bike Shop,Wholesale Bikes,27,100000,2002,58 Teed Drive,,Randolph,Massachusetts,MA,2368,United States
+450,AW00000450,Specialty Bike Shop,Bikes Anyone?,22,100000,2000,Ames Plaza,,Saugus,Massachusetts,MA,1906,United States
+557,AW00000557,Warehouse,Purchase Mart,49,150000,1996,Wrentham Village,,Wrentham,Massachusetts,MA,2093,United States
+108,AW00000108,Warehouse,Wheelsets Storehouse,66,300000,1983,63 Badgers Island West,,Kittery,Maine,ME,3904,United States
+642,AW00000642,Value Added Reseller,Fitness Sport Boutique,18,80000,1998,Dansk Square,,Kittery,Maine,ME,3904,United States
+323,AW00000323,Warehouse,Metro Bike Works,100,300000,2003,250000 Eight Mile Road,,Detroit,Michigan,MI,48226,United States
+431,AW00000431,Specialty Bike Shop,Small Cycle Store,28,100000,1975,Horizon Outlet Center,,Holland,Michigan,MI,49423,United States
+660,AW00000660,Warehouse,Exhilarating Cycles,43,150000,1984,Kensington Valley Shops,,Howell,Michigan,MI,48843,United States
+287,AW00000287,Warehouse,Handy Bike Services,88,300000,1979,399700 John R. Rd.,,Madison Heights,Michigan,MI,48071,United States
+395,AW00000395,Specialty Bike Shop,Online Bike Sellers,40,150000,1986,678 Eastman Ave.,,Midland,Michigan,MI,48640,United States
+468,AW00000468,Specialty Bike Shop,Blue Bicycle Company,40,150000,1999,Horizon Outlet Center,,Monroe,Michigan,MI,98272,United States
+197,AW00000197,Value Added Reseller,"Fabrikam Inc., West",12,80000,1980,46460 West Oaks Drive,,Novi,Michigan,MI,48375,United States
+180,AW00000180,Specialty Bike Shop,Full-Service Bike Store,39,150000,1978,9920 North Telegraph Rd.,,Pontiac,Michigan,MI,48342,United States
+643,AW00000643,Specialty Bike Shop,Friendly Bike Shop,30,150000,2000,Port Huron,,Port Huron,Michigan,MI,48060,United States
+504,AW00000504,Specialty Bike Shop,Historic Bicycle Sales,40,150000,1986,Redford Plaza,,Redford,Michigan,MI,48239,United States
+377,AW00000377,Specialty Bike Shop,Grand Sport Boutique,46,150000,1995,99800 Tittabawasee Rd.,,Saginaw,Michigan,MI,48601,United States
+360,AW00000360,Warehouse,Novelty Bikes,70,300000,1997,998 Forest Road,,Saginaw,Michigan,MI,48601,United States
+198,AW00000198,Specialty Bike Shop,Field Trip Inc,33,150000,1982,997000 Telegraph Rd.,,Southfield,Michigan,MI,48034,United States
+306,AW00000306,Value Added Reseller,Work and Play Association,12,80000,1980,2533 Eureka Rd.,,Southgate,Michigan,MI,48195,United States
+288,AW00000288,Value Added Reseller,Kickstand Sellers,3,30000,1985,6789 Warren Road,,Westland,Michigan,MI,48185,United States
+18,AW00000018,Warehouse,Catalog Store,55,300000,2003,855 East Main Avenue,,Zeeland,Michigan,MI,49464,United States
+579,AW00000579,Value Added Reseller,Riders Company,15,80000,2003,Tanger Factory,,Branch,Minnesota,MN,55056,United States
+274,AW00000274,Specialty Bike Shop,Active Systems,44,150000,1992,9995 West Central Entrance,,Duluth,Minnesota,MN,55802,United States
+39,AW00000039,Warehouse,Fitness Hotel,76,300000,1994,74400 France Avenue South,,Edina,Minnesota,MN,55436,United States
+694,AW00000694,Value Added Reseller,The Accessories Store,13,80000,2000,Medford Outlet Center,,Medford,Minnesota,MN,55049,United States
+623,AW00000623,Warehouse,Hardware Components,91,300000,1981,City Center,,Minneapolis,Minnesota,MN,55402,United States
+562,AW00000562,Specialty Bike Shop,Practical Bike Supply Company,25,100000,2005,Horizon Outlet,,Woodbury,Minnesota,MN,55125,United States
+598,AW00000598,Specialty Bike Shop,Black Bicycle Company,45,150000,1987,Factory Merchants,,Branson,Missouri,MO,65616,United States
+364,AW00000364,Value Added Reseller,District Mall,14,80000,1995,25095 W. Florissant,,Ferguson,Missouri,MO,63135,United States
+238,AW00000238,Specialty Bike Shop,A Great Bicycle Company,28,100000,1975,6030 Robinson Road,,Jefferson City,Missouri,MO,65101,United States
+544,AW00000544,Warehouse,Valley Bicycle Specialists,66,300000,1983,Blue Ridge Mall,,Kansas City,Missouri,MO,64106,United States
+695,AW00000695,Specialty Bike Shop,Responsible Bike Dealers,49,150000,1993,Ward Parkway Center,,Kansas City,Missouri,MO,64106,United States
+670,AW00000670,Value Added Reseller,First Bike Store,17,80000,2004,Kansas City Factory Outlet,,Odessa,Missouri,MO,64076,United States
+363,AW00000363,Warehouse,Immense Manufacturing Company,73,300000,2002,70 N.W. Plaza,,Saint Ann,Missouri,MO,63074,United States
+327,AW00000327,Value Added Reseller,World of Bikes,17,80000,2001,660 Lindbergh,,Saint Louis,Missouri,MO,63103,United States
+381,AW00000381,Warehouse,Bicycle Lines Distributors,83,300000,1993,6996 South Lindbergh,,Saint Louis,Missouri,MO,63103,United States
+220,AW00000220,Specialty Bike Shop,Best o' Bikes,10,80000,1976,250880 Baur Blvd,,Saint Louis,Missouri,MO,63103,United States
+646,AW00000646,Specialty Bike Shop,Yellow Bicycle Company,29,100000,2005,St. Louis Marketplace,,Saint Louis,Missouri,MO,63103,United States
+423,AW00000423,Warehouse,Bike Rims Company,97,300000,1996,Edgewater Mall,,Biloxi,Mississippi,MS,39530,United States
+566,AW00000566,Warehouse,eCommerce Bikes,58,300000,2003,Gulfport Factory Shops,,Gulfport,Mississippi,MS,39501,United States
+314,AW00000314,Warehouse,One-Piece Handle Bars,97,300000,1996,4496 Barnes Crossing Rd.,,Tupelo,Mississippi,MS,38804,United States
+38,AW00000038,Specialty Bike Shop,Finer Mart,46,150000,2001,640 South 994th St. W.,,Billings,Montana,MT,59101,United States
+541,AW00000541,Warehouse,Nonskid Tire Company,100,300000,2003,Holiday Village Mall,,Great Falls,Montana,MT,59401,United States
+434,AW00000434,Specialty Bike Shop,Road-Way Mart,27,100000,2002,Southgate Mall,,Missoula,Montana,MT,59801,United States
+700,AW00000700,Value Added Reseller,Underglaze and Finish Company,11,80000,1997,8520 University City Blvd,,Charlotte,North Carolina,NC,28202,United States
+63,AW00000063,Warehouse,Metro Bike Mart,86,300000,1982,Po Box 2257,,Greensboro,North Carolina,NC,27412,United States
+699,AW00000699,Warehouse,Sensational Discount Store,80,300000,1991,6333 Cloverleaf Parkway,,Kannapolis,North Carolina,NC,28081,United States
+627,AW00000627,Value Added Reseller,Exchange Parts Inc.,8,30000,1979,7700 Green Road,,Raleigh,North Carolina,NC,27603,United States
+207,AW00000207,Specialty Bike Shop,Lubricant and Grease Suppliers,30,150000,2000,956k North Wesleyan Blvd.,,Rocky Mount,North Carolina,NC,27803,United States
+524,AW00000524,Value Added Reseller,Chain and Chain Tool Distributions,12,80000,1980,Factory Stores Of America,,Smithfield,North Carolina,NC,27577,United States
+206,AW00000206,Value Added Reseller,New and Used Bicycles,18,80000,1998,3990 Silas Creek Parkway,,Winston-Salem,North Carolina,NC,27104,United States
+503,AW00000503,Value Added Reseller,Metropolitan Sales and Rental,4,30000,1980,Granite State Marketplace,,Hooksett,New Hampshire,NH,3106,United States
+72,AW00000072,Warehouse,Outdoor Equipment Store,89,300000,1984,6 Cotton Road,,Nashua,New Hampshire,NH,3064,United States
+594,AW00000594,Value Added Reseller,Casual Bicycle Store,10,80000,1989,Westside Plaza,,Nashua,New Hampshire,NH,3064,United States
+618,AW00000618,Value Added Reseller,Seventh Bike Store,2,30000,1977,Stateline Plaza,,Plaistow,New Hampshire,NH,3865,United States
+558,AW00000558,Value Added Reseller,Retail Sales and Service,14,80000,1998,Lake Region Factory Outlet,,Tilton,New Hampshire,NH,3276,United States
+221,AW00000221,Warehouse,Bike Dealers Association,40,150000,1978,9952 E. Lohman Ave.,,Las Cruces,New Mexico,NM,88001,United States
+581,AW00000581,Warehouse,Safe Toys,73,300000,2002,49925 Crestview Drive N.E.,,Rio Rancho,New Mexico,NM,87124,United States
+186,AW00000186,Specialty Bike Shop,Thrilling Bike Tours,37,150000,1975,4660 Rodeo Road,,Santa Fe,New Mexico,NM,87501,United States
+169,AW00000169,Warehouse,Downtown Hotel,85,300000,1990,2560 E. Newlands Dr,,Fernley,Nevada,NV,89408,United States
+438,AW00000438,Specialty Bike Shop,Remarkable Bike Store,10,80000,1976,Eastern Beltway Center,,Las Vegas,Nevada,NV,89106,United States
+401,AW00000401,Specialty Bike Shop,Brightwork Company,38,150000,1983,Belz Factory Outlet,,Las Vegas,Nevada,NV,89106,United States
+626,AW00000626,Warehouse,Retail Sporting Goods,92,300000,1991,6753 Howard Hughes Parkway,,Las Vegas,Nevada,NV,89106,United States
+564,AW00000564,Value Added Reseller,Imported and Domestic Cycles,20,100000,2004,22589 West Craig Road,,North Las Vegas,Nevada,NV,89030,United States
+650,AW00000650,Warehouse,Permanent Finish Products,100,300000,2003,62500 Neil Road,,Reno,Nevada,NV,89502,United States
+115,AW00000115,Warehouse,Security Racks and Locks Wholesalers,43,150000,1984,910 Main Street.,,Sparks,Nevada,NV,89431,United States
+413,AW00000413,Specialty Bike Shop,Margie's Travel,34,150000,1976,Woodbury Commons,,Central Valley,New York,NY,10917,United States
+522,AW00000522,Specialty Bike Shop,Small Bike Accessories Shop,34,150000,1976,Consumer Square,,Cheektowaga,New York,NY,14227,United States
+341,AW00000341,Specialty Bike Shop,Independent Outlet,22,100000,2000,Great Northern Mall Hwy4 & Rt. 31,,Clay,New York,NY,13041,United States
+324,AW00000324,Value Added Reseller,A Bicycle Association,18,80000,1979,6405 Erie Blvd. Hills Plaza,,De Witt,New York,NY,13214,United States
+126,AW00000126,Specialty Bike Shop,Famous Bike Sales and Service,25,100000,2005,P.O. Box 9005,,Endicott,New York,NY,13760,United States
+619,AW00000619,Specialty Bike Shop,Strong Metal Manufacturing,38,150000,1983,Pyramid Mall,,Ithaca,New York,NY,14850,United States
+539,AW00000539,Value Added Reseller,Glossy Bikes,19,80000,2004,Adirondack Factory Outlet,,Lake George,New York,NY,12845,United States
+54,AW00000054,Warehouse,Larger Cycle Shop,83,300000,1993,Attn: Accounts Payable,44 Main Place,Melville,New York,NY,11747,United States
+233,AW00000233,Warehouse,Fashionable Department Stores,52,300000,2002,7505 Commercial Dr.,,New Hartford,New York,NY,13413,United States
+144,AW00000144,Specialty Bike Shop,Only Bikes and Accessories,43,150000,1996,123 Union Square South,,New York,New York,NY,10007,United States
+667,AW00000667,Value Added Reseller,Traditional Department Stores,14,80000,1998,Green Acres Mall,,Valley Stream,New York,NY,11580,United States
+540,AW00000540,Specialty Bike Shop,Guaranteed Sales and Service,28,100000,1975,Buckeye Factory Shops,,Burbank,Ohio,OH,44214,United States
+575,AW00000575,Warehouse,Bicycle Outfitters,67,300000,1995,Cherry Grove Plaza,,Cincinnati,Ohio,OH,45202,United States
+359,AW00000359,Specialty Bike Shop,Mechanical Sports Center,40,150000,1999,6225 Glenway Ave.,,Cincinnati,Ohio,OH,45202,United States
+666,AW00000666,Warehouse,Bike Boutique,49,150000,1996,Polaris Town Center,,Columbus,Ohio,OH,43215,United States
+269,AW00000269,Warehouse,Curbside Universe,82,300000,1988,25264 E. 260th,,Euclid,Ohio,OH,44119,United States
+690,AW00000690,Warehouse,Active Cycling,73,300000,2002,Indian Mound Mall,,Heath,Ohio,OH,43056,United States
+593,AW00000593,Warehouse,Expert Sports Store,81,300000,1996,Spring Meadows Place,,Holland,Ohio,OH,43528,United States
+576,AW00000576,Value Added Reseller,The Bike Mechanics,16,80000,1998,Johnny Appleseed Shop.center,,Mansfield,Ohio,OH,44903,United States
+179,AW00000179,Value Added Reseller,Fourth Bike Store,3,30000,1985,77993 Mentor Ave.,,Mentor,Ohio,OH,44060,United States
+270,AW00000270,Value Added Reseller,Active Transport Inc.,9,30000,1994,225200 Miles Ave.,,North Randall,Ohio,OH,44128,United States
+89,AW00000089,Specialty Bike Shop,Riverside Company,33,150000,1982,5998 E Lorain,,Oberlin,Ohio,OH,44074,United States
+378,AW00000378,Warehouse,Grown-up Bike Store,82,300000,1988,25192 Princeton Rd.,,Springdale,Ohio,OH,45246,United States
+452,AW00000452,Value Added Reseller,A Cycle Shop,17,80000,2004,Heritage Mall,,Albany,Oregon,OR,97321,United States
+595,AW00000595,Specialty Bike Shop,Cycle Clearance,46,150000,1995,2255 254th Avenue Se,,Albany,Oregon,OR,97321,United States
+645,AW00000645,Value Added Reseller,Superior Hardware Distributors,20,100000,2004,250775 SW Hillsdale Hwy,,Beaverton,Oregon,OR,97005,United States
+91,AW00000091,Value Added Reseller,Scooters and Bikes Store,14,80000,1986,258101 Nw Evergreen Parkway,,Beaverton,Oregon,OR,97005,United States
+604,AW00000604,Specialty Bike Shop,Sellers of Cycles,43,150000,1984,700 Se Sunnyside Road,,Clackamas,Oregon,OR,97015,United States
+181,AW00000181,Warehouse,Family Entertainment Center,89,300000,1984,25718 Se Sunnyside Rd,,Clackamas,Oregon,OR,97015-6403,United States
+693,AW00000693,Warehouse,Stock Parts and Supplies,76,300000,1994,99295 S.e. Tualatin Valley_hwy.,,Hillsboro,Oregon,OR,97123,United States
+163,AW00000163,Warehouse,Sports Merchandise,83,300000,1993,558 S 6th St,,Klamath Falls,Oregon,OR,97601,United States
+55,AW00000055,Value Added Reseller,Kickstands and Accessories Company,8,30000,1986,25300 Biddle Road,,Medford,Oregon,OR,97504,United States
+451,AW00000451,Warehouse,Roadway Bike Emporium,52,300000,2002,Medford,,Medford,Oregon,OR,97504,United States
+182,AW00000182,Value Added Reseller,Another Bicycle Company,2,30000,1977,567 Sw Mcloughlin Blvd,,Milwaukie,Oregon,OR,97222,United States
+56,AW00000056,Specialty Bike Shop,Latest Accessories Sales,44,150000,1992,Gateway,,Portland,Oregon,OR,97205,United States
+74,AW00000074,Specialty Bike Shop,Parcel Express Delivery Service,38,150000,1983,Washington Square,,Portland,Oregon,OR,97205,United States
+379,AW00000379,Value Added Reseller,Fad Outlet,9,30000,1994,2550 Ne Sandy Blvd,,Portland,Oregon,OR,97205,United States
+487,AW00000487,Warehouse,Bike Experts,82,300000,1988,Lancaster Mall,,Salem,Oregon,OR,97301,United States
+644,AW00000644,Warehouse,Convenient Sales and Service,98,300000,2002,950 Gateway Street,,Springfield,Oregon,OR,97477,United States
+692,AW00000692,Specialty Bike Shop,Successful Sales Company,46,150000,2001,7009 Sw Hall Blvd.,,Tigard,Oregon,OR,97223,United States
+164,AW00000164,Value Added Reseller,Suburban Cycle Shop,8,30000,1986,994 Sw Cherry Park Rd,,Troutdale,Oregon,OR,97060,United States
+162,AW00000162,Specialty Bike Shop,Tire Company,45,150000,1987,675 East Ave.,,Warwick,Rhode Island,RI,2889,United States
+35,AW00000035,Specialty Bike Shop,Economic Parts Supply,43,150000,1996,2532 Fairgrounds Road,,West Kingston,Rhode Island,RI,2892,United States
+521,AW00000521,Value Added Reseller,Mobile Outlet,10,80000,1974,Walnut Hill Plaza,,Woonsocket,Rhode Island,RI,2895,United States
+548,AW00000548,Warehouse,New Bikes Company,40,150000,1978,Hilton Head Factory Outlets No. 25,,Bluffton,South Carolina,SC,29910,United States
+422,AW00000422,Specialty Bike Shop,Consolidated Sales,31,150000,1994,Carolina Factory Shops,,Gaffney,South Carolina,SC,29340,United States
+386,AW00000386,Specialty Bike Shop,Touring Services,43,150000,1984,25 Myrtle Beach,,Myrtle Beach,South Carolina,SC,29577,United States
+454,AW00000454,Warehouse,Sleek Bikes,55,300000,2003,44025 W. Empire,,Denby,South Dakota,SD,57716,United States
+22,AW00000022,Value Added Reseller,Travel Systems,19,80000,1979,2505 Gateway Drive,,North Sioux City,South Dakota,SD,57049,United States
+404,AW00000404,Specialty Bike Shop,Activity Center,37,150000,1975,Factory Stores Of America,,Crossville,Tennessee,TN,38555,United States
+333,AW00000333,Warehouse,Resident Cycle Shop,43,150000,1984,5230a Hwy. 2553,,Hixson,Tennessee,TN,37343,United States
+405,AW00000405,Warehouse,Sporting Goods and Bicycle Shop,91,300000,1981,Fort Henry Mall,,Kingsport,Tennessee,TN,37660,United States
+45,AW00000045,Warehouse,Every Bike Shop,80,300000,1991,2550 High Street,,La Vergne,Tennessee,TN,37086,United States
+602,AW00000602,Warehouse,Ultimate Bike Shop,84,300000,1985,Foothills Mall,,Maryville,Tennessee,TN,37801,United States
+135,AW00000135,Specialty Bike Shop,Wonderful Bikes Inc.,34,150000,1987,C/O Arrow Electronics,,Memphis,Tennessee,TN,38103,United States
+170,AW00000170,Value Added Reseller,Excellent Riding Supplies,6,30000,1983,"6555 Quince Road, Suite 2025",,Memphis,Tennessee,TN,38103,United States
+279,AW00000279,Value Added Reseller,Reliable Brake Systems,6,30000,1983,770 South Point Dr,,Memphis,Tennessee,TN,38103,United States
+585,AW00000585,Value Added Reseller,Next-Door Bike Store,13,80000,2000,Mall Of Memphis,,Memphis,Tennessee,TN,38103,United States
+134,AW00000134,Value Added Reseller,Budget Bike Company,18,80000,2001,Tom Morris,,Millington,Tennessee,TN,38054,United States
+27,AW00000027,Warehouse,Sports Sales and Rental,64,300000,2000,100 Fifth Drive,,Millington,Tennessee,TN,38054,United States
+9,AW00000009,Warehouse,Tandem Bicycle Store,46,150000,1990,3333 Micro Drive,,Millington,Tennessee,TN,38054,United States
+62,AW00000062,Specialty Bike Shop,Manufacturers Inc,42,150000,1989,Po Box 08050,,Nashville,Tennessee,TN,37203,United States
+512,AW00000512,Value Added Reseller,Tiny Bike Boutique,4,30000,1982,Fsa Outlet Center,,Nashville,Tennessee,TN,37203,United States
+350,AW00000350,Specialty Bike Shop,Mountain Emporium,31,150000,2002,25800 Gallitin Rd.,,Nashville,Tennessee,TN,37203,United States
+567,AW00000567,Value Added Reseller,Global Plaza,19,80000,1979,Belz Factory Outlet,,Pigeon Forge,Tennessee,TN,37863,United States
+647,AW00000647,Warehouse,Solid Bike Parts,99,300000,2003,Lincoln Square,,Arlington,Texas,TX,76010,United States
+4,AW00000004,Value Added Reseller,Modular Cycle Systems,5,30000,1980,800 Interchange Blvd.,Suite 2501,Austin,Texas,TX,78701,United States
+291,AW00000291,Value Added Reseller,Grand Bicycle Stores,2,30000,1977,48255 I-10 E. @ Eastpoint Blvd.,,Baytown,Texas,TX,77520,United States
+184,AW00000184,Warehouse,Go-cart and Bike Specialists,90,300000,1976,2509 W. Frankford,,Carrollton,Texas,TX,75006,United States
+489,AW00000489,Specialty Bike Shop,Cash & Carry Bikes,45,150000,1987,Lakeline Mall,,Cedar Park,Texas,TX,78613,United States
+436,AW00000436,Value Added Reseller,Sheet Metal Manufacturing,17,80000,2001,25306 Harvey Rd.,,College Station,Texas,TX,77840,United States
+435,AW00000435,Warehouse,Satin Finish Company,66,300000,1983,25220 Airline Road,,Corpus Christi,Texas,TX,78404,United States
+201,AW00000201,Specialty Bike Shop,Unsurpassed Bikes,32,150000,1988,Po Box 8035996,,Dallas,Texas,TX,75201,United States
+165,AW00000165,Specialty Bike Shop,Third Bike Store,44,150000,1992,2500 North Stemmons Freeway,,Dallas,Texas,TX,75201,United States
+256,AW00000256,Specialty Bike Shop,Rental Bikes,46,150000,2001,"99828 Routh Street, Suite 825",,Dallas,Texas,TX,75201,United States
+130,AW00000130,Warehouse,Elite Bikes,58,300000,2003,Po Box 8259024,,Dallas,Texas,TX,75201,United States
+112,AW00000112,Warehouse,Town Industries,40,150000,1978,P.O. Box 6256916,,Dallas,Texas,TX,75201,United States
+94,AW00000094,Value Added Reseller,Specialty Sports Store,16,80000,1992,52500 Liberty Way,,Fort Worth,Texas,TX,76102,United States
+75,AW00000075,Warehouse,Paint Supply,90,300000,1976,Corporate Office,,Garland,Texas,TX,75040,United States
+166,AW00000166,Warehouse,Fitness Toy Store,84,300000,1985,220 Mercy Drive,,Garland,Texas,TX,75040,United States
+508,AW00000508,Warehouse,Designer Department Stores,89,300000,1984,Southwest Outlet,,Hillsboro,Texas,TX,76645,United States
+292,AW00000292,Specialty Bike Shop,Grease and Oil Products Company,38,150000,1983,9903 Highway 6 South,,Houston,Texas,TX,77003,United States
+309,AW00000309,Value Added Reseller,The Gear Store,14,80000,1986,2345 North Freeway,,Houston,Texas,TX,77003,United States
+255,AW00000255,Value Added Reseller,Swift Cycles,14,80000,1995,25500 Old Spanish Trail,,Houston,Texas,TX,77003,United States
+597,AW00000597,Value Added Reseller,All Seasons Sports Supply,9,30000,1994,Ohms Road,,Houston,Texas,TX,77003,United States
+345,AW00000345,Warehouse,Genial Bike Associates,55,300000,2003,99450 Highway 59 North,,Humble,Texas,TX,77338,United States
+3,AW00000003,Warehouse,Advanced Bike Components,40,150000,1978,12345 Sterling Avenue,,Irving,Texas,TX,75061,United States
+21,AW00000021,Warehouse,Chic Department Stores,58,300000,2003,90025 Sterling St,,Irving,Texas,TX,75061,United States
+399,AW00000399,Warehouse,Big Cycle Mall,89,300000,1984,9500b E. Central Texas Expressway,,Killeen,Texas,TX,76541,United States
+607,AW00000607,Specialty Bike Shop,Maintenance and Repair for Bicycles,42,150000,1989,Lone Star Factory,,La Marque,Texas,TX,77568,United States
+40,AW00000040,Value Added Reseller,Journey Sporting Goods,13,80000,2000,509 Nafta Boulevard,,Laredo,Texas,TX,78040,United States
+490,AW00000490,Warehouse,Extraordinary Bike Works,83,300000,1993,Town East Center,,Mesquite,Texas,TX,75149,United States
+202,AW00000202,Warehouse,Two-Seater Bikes,96,300000,1990,5700 Legacy Dr,,Plano,Texas,TX,75074,United States
+273,AW00000273,Value Added Reseller,A Typical Bike Shop,8,30000,1986,"One Dancing, Rr No. 25",Box 8033,Round Rock,Texas,TX,78664,United States
+93,AW00000093,Warehouse,Stationary Bikes and Stands,96,300000,1990,Sapp Road West,,Round Rock,Texas,TX,78664,United States
+471,AW00000471,Specialty Bike Shop,Social Activities Club,43,150000,1996,23025 S.W. Military Rd.,,San Antonio,Texas,TX,78204,United States
+580,AW00000580,Specialty Bike Shop,Rural Sales and Service,43,150000,1996,Management Mall,,San Antonio,Texas,TX,78204,United States
+382,AW00000382,Value Added Reseller,Beneficial Exercises and Activities,8,30000,1986,6425 Nw Loop 410,,San Antonio,Texas,TX,78204,United States
+417,AW00000417,Warehouse,Genuine Bike Shop,95,300000,1984,7760 N. Pan Am Expwy,,San Antonio,Texas,TX,78204,United States
+328,AW00000328,Value Added Reseller,Totes & Baskets Company,2,30000,1974,72540 Blanco Rd.,,San Antonio,Texas,TX,78204,United States
+671,AW00000671,Specialty Bike Shop,"Contoso, Ltd.",25,100000,2005,Fiesta Trail Shopping Center,,San Antonio,Texas,TX,78204,United States
+507,AW00000507,Specialty Bike Shop,Global Sporting Goods,39,150000,1978,Fountains On The Lake,,Stafford,Texas,TX,77477,United States
+561,AW00000561,Value Added Reseller,Mountain Toy Store,17,80000,2004,First Colony Mall,,Sugar Land,Texas,TX,77478,United States
+673,AW00000673,Value Added Reseller,Countryside Company,20,100000,2004,825 W 500 S,,Bountiful,Utah,UT,84010,United States
+698,AW00000698,Specialty Bike Shop,Western Bike Supplies,48,150000,1998,566 S. Main,,Cedar City,Utah,UT,84720,United States
+672,AW00000672,Warehouse,Utilitarian Sporting Goods,55,300000,2003,4635 S. Harrison Blvd.,,Ogden,Utah,UT,84401,United States
+293,AW00000293,Warehouse,Fashionable Bikes and Accessories,90,300000,1976,Sports Store At Park City,,Park City,Utah,UT,84098,United States
+696,AW00000696,Warehouse,Roadway Supplies,79,300000,1999,2564 S. Redwood Rd.,,Riverton,Utah,UT,84065,United States
+43,AW00000043,Value Added Reseller,Frugal Bike Shop,12,80000,1992,2575 West 2700 South,,Salt Lake City,Utah,UT,84101,United States
+7,AW00000007,Value Added Reseller,Associated Bikes,8,30000,1986,5420 West 22500 South,,Salt Lake City,Utah,UT,84101,United States
+601,AW00000601,Specialty Bike Shop,Transport Bikes,44,150000,1992,25130 South State Street,,Sandy,Utah,UT,84070,United States
+697,AW00000697,Value Added Reseller,Brakes and Gears,12,80000,1992,9927 N. Main St.,,Tooele,Utah,UT,84074,United States
+90,AW00000090,Warehouse,Sales and Supply Company,95,300000,1984,Corporate Ofc A/p,123 Fourth Ave,Chantilly,Virginia,VA,20151,United States
+467,AW00000467,Value Added Reseller,The Cycle Store,16,80000,1998,The Corner Shopping Center,,Falls Church,Virginia,VA,22046,United States
+485,AW00000485,Value Added Reseller,Clamps & Brackets Co.,10,80000,1989,Leesburg Premium Outlet Centre,,Leesburg,Virginia,VA,20176,United States
+17,AW00000017,Specialty Bike Shop,Trusted Catalog Store,25,100000,2005,9920 Picketts Line Road,,Newport News,Virginia,VA,23607,United States
+449,AW00000449,Value Added Reseller,Bike Products and Accessories,14,80000,1998,Regency Hilltop Shopping Cntr,,Virginia Beach,Virginia,VA,23451,United States
+254,AW00000254,Warehouse,Safe Cycles Shop,73,300000,2002,25915 140th Ave Ne,,Bellevue,Washington,WA,98004,United States
+290,AW00000290,Warehouse,Friendly Bike Shop,89,300000,1984,750 Lakeway Dr,,Bellingham,Washington,WA,98225,United States
+621,AW00000621,Value Added Reseller,Running and Cycling Gear,4,30000,1982,No. 60 Bellis Fair Parkway,,Bellingham,Washington,WA,98225,United States
+325,AW00000325,Specialty Bike Shop,All Cycle Shop,27,100000,2002,25111 228th St Sw,,Bothell,Washington,WA,98011,United States
+19,AW00000019,Value Added Reseller,Center Cycle Shop,20,100000,2004,99300 223rd Southeast,,Bothell,Washington,WA,98011,United States
+469,AW00000469,Warehouse,Vast Bike Sales and Rental,70,300000,1997,Lewis County Mall,,Chehalis,Washington,WA,98532,United States
+343,AW00000343,Value Added Reseller,Mail-Order Outlet,17,80000,2004,409 S. Main Ste. 25,,Ellensburg,Washington,WA,98926,United States
+344,AW00000344,Specialty Bike Shop,Fifth Bike Store,25,100000,2005,2502 Evergreen Ste E,,Everett,Washington,WA,98201,United States
+308,AW00000308,Warehouse,Rugged Bikes,95,300000,1984,48995 Evergreen Wy.,,Everett,Washington,WA,98201,United States
+596,AW00000596,Warehouse,Coho Sports,82,300000,1988,705 SE Mall Parkway,,Everett,Washington,WA,98201,United States
+669,AW00000669,Warehouse,Racing Bike Outlet,52,300000,2002,225 South 314th Street,,Federal Way,Washington,WA,98003,United States
+109,AW00000109,Value Added Reseller,Travel Sports,17,80000,2001,755 Nw Grandstand,,Issaquah,Washington,WA,98027,United States
+505,AW00000505,Warehouse,Honest Repair Service,88,300000,1979,Three Rivers Mall,,Kelso,Washington,WA,98626,United States
+668,AW00000668,Specialty Bike Shop,Official Parts Shop,22,100000,2000,9905 Three Rivers Drive,,Kelso,Washington,WA,98626,United States
+470,AW00000470,Value Added Reseller,Wingtip Toys,15,80000,2003,755 Columbia Ctr Blvd,,Kennewick,Washington,WA,99337,United States
+326,AW00000326,Warehouse,Year-Round Sports,66,300000,1983,2583 Se 272nd St,,Kent,Washington,WA,98031,United States
+20,AW00000020,Specialty Bike Shop,Central Discount Store,28,100000,1975,259826 Russell Rd. South,,Kent,Washington,WA,98031,United States
+542,AW00000542,Value Added Reseller,Finer Parts Shop,18,80000,1979,2526a Tri-Lake Blvd Ne,,Kirkland,Washington,WA,98033,United States
+433,AW00000433,Value Added Reseller,Thorough Parts and Repair Services,18,80000,1979,S Sound Ctr Suite 25300,,Lacey,Washington,WA,98503,United States
+218,AW00000218,Value Added Reseller,Sure & Reliable Sporting Goods,17,80000,2001,7990 Ocean Beach Hwy.,,Longview,Washington,WA,98632,United States
+235,AW00000235,Specialty Bike Shop,Certified Bicycle Supply,25,100000,2005,2345 West Spencer Road,,Lynnwood,Washington,WA,98036,United States
+73,AW00000073,Value Added Reseller,Outdoor Sports Supply,2,30000,1977,Great Northwestern,,North Bend,Washington,WA,98045,United States
+200,AW00000200,Value Added Reseller,Basic Bike Company,14,80000,1986,15 East Main,,Port Orchard,Washington,WA,98366,United States
+253,AW00000253,Specialty Bike Shop,Roving Sports,43,150000,1996,4927 S Meridian Ave Ste D,,Puyallup,Washington,WA,98371,United States
+37,AW00000037,Value Added Reseller,Two Bike Shops,14,80000,1995,35525-9th Street Sw,,Puyallup,Washington,WA,98371,United States
+307,AW00000307,Specialty Bike Shop,Riding Associates,33,150000,1982,2528 Meridian E,,Puyallup,Washington,WA,98371,United States
+578,AW00000578,Warehouse,The Bike Shop,70,300000,1997,3250 South Meridian,,Puyallup,Washington,WA,98371,United States
+127,AW00000127,Warehouse,Front Sporting Goods,55,300000,2003,257700 Ne 76th Street,,Redmond,Washington,WA,98052,United States
+145,AW00000145,Warehouse,Raw Materials Inc,73,300000,2002,Bldg. 9n/99298,,Redmond,Washington,WA,98052,United States
+2,AW00000002,Specialty Bike Shop,Progressive Sports,10,80000,1976,3207 S Grady Way,,Renton,Washington,WA,98055,United States
+289,AW00000289,Specialty Bike Shop,Moderately-Priced Bikes Store,39,150000,1978,67 Rainer Ave S,,Renton,Washington,WA,98055,United States
+199,AW00000199,Warehouse,Authorized Bike Sales and Rental,95,300000,1984,490 Ne 4th St,,Renton,Washington,WA,98055,United States
+236,AW00000236,Warehouse,Closeout Boutique,55,300000,2003,1050 Oak Street,,Seattle,Washington,WA,98104,United States
+1,AW00000001,Value Added Reseller,A Bike Store,2,30000,1974,2251 Elliot Avenue,,Seattle,Washington,WA,98104,United States
+146,AW00000146,Value Added Reseller,Latest Sports Equipment,14,80000,1995,4251 First Avenue,,Seattle,Washington,WA,98104,United States
+397,AW00000397,Value Added Reseller,Capable Sales and Service,3,30000,1985,765 Delridge Way Sw,,Seattle,Washington,WA,98104,United States
+361,AW00000361,Value Added Reseller,Fitness Supplies,15,80000,2003,755 W Washington Ave Ste D,,Sequim,Washington,WA,98382,United States
+217,AW00000217,Warehouse,City Manufacturing,66,300000,1983,3025 E Waterway Blvd,,Shelton,Washington,WA,98584,United States
+362,AW00000362,Specialty Bike Shop,Grand Cycle Store,43,150000,1996,44606 N Division St,,Spokane,Washington,WA,99202,United States
+415,AW00000415,Value Added Reseller,Imaginary Toys,12,80000,1980,4210 E Sprague Ave,,Spokane,Washington,WA,99202,United States
+605,AW00000605,Warehouse,Outstanding Cycles,85,300000,1990,North 93270 Newport Highway,,Spokane,Washington,WA,99202,United States
+577,AW00000577,Specialty Bike Shop,Synthetic Materials Manufacturing,40,150000,1999,3390 South 23rd St.,,Tacoma,Washington,WA,98403,United States
+272,AW00000272,Warehouse,Metro Cycle Shop,83,300000,1993,2507 Pacific Ave S,,Tacoma,Washington,WA,98403,United States
+416,AW00000416,Specialty Bike Shop,Impromptu Trips,33,150000,1982,Valley Mall,,Union Gap,Washington,WA,98903,United States
+271,AW00000271,Specialty Bike Shop,Alternative Vehicles,45,150000,1987,3307 Evergreen Blvd,Ste 1071,Washougal,Washington,WA,98671,United States
+128,AW00000128,Value Added Reseller,Demand Distributors,20,100000,2004,25102 Springwater,,Wenatchee,Washington,WA,98801,United States
+92,AW00000092,Specialty Bike Shop,Sports Commodities,32,150000,1988,253950 N.E. 178th Place,,Woodinville,Washington,WA,98072,United States
+543,AW00000543,Specialty Bike Shop,Friendly Neighborhood Bikes,27,100000,2002,Johnson Creek,,Johnson Creek,Wisconsin,WI,53038,United States
+453,AW00000453,Specialty Bike Shop,Unique Bikes,25,100000,2005,3900 S. 997th St.,,Milwaukee,Wisconsin,WI,53202,United States
+606,AW00000606,Value Added Reseller,Little Bicycle Supply Shop,6,30000,1983,Cedar Creek Stores,,Mosinee,Wisconsin,WI,54455,United States
+418,AW00000418,Value Added Reseller,Good Bike Shop,14,80000,1986,99433 S. Greenbay Rd.,,Racine,Wisconsin,WI,53182,United States
+506,AW00000506,Value Added Reseller,Great Bikes,3,30000,1985,Eastridge Mall,,Casper,Wyoming,WY,82601,United States
+559,AW00000559,Specialty Bike Shop,Some Discount Store,22,100000,2000,Frontier Mall,,Cheyenne,Wyoming,WY,82001,United States
+380,AW00000380,Specialty Bike Shop,First Department Stores,45,150000,1987,2540 Dell Range Blvd,,Cheyenne,Wyoming,WY,82001,United States
+620,AW00000620,Warehouse,Tires and Tubes,90,300000,1976,25708 Dell Range Blvd.,,Cheyenne,Wyoming,WY,82001,United States
+560,AW00000560,Warehouse,Major Sport Suppliers,52,300000,2002,White Mountain Mall,,Rock Springs,Wyoming,WY,82901,United States
